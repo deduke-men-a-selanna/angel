@@ -68,6 +68,7 @@ German vowels are pronounced **shorter**:
 * in unstressed syllables
 
 **Otherwise**, German vowels are pronounced like this:
+
     A   a      like     a   in   estudar
         ai     like     a + i
     Au  au     like     au  in   aumentar
