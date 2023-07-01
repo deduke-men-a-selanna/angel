@@ -8,6 +8,8 @@ Some details concerning rare pronunciations have been omitted.
 Consonants and consonant combinations systematically grouped
 -
 
+Double consonants are **not** pronounced longer than single consonants in German.
+
     B   b      always like                             b   in   bola
     P   p      always like                             p   in   parte
     Pf  pf     always like                             p + f
@@ -56,6 +58,41 @@ Consonants and consonant combinations systematically grouped
 [sound of ch in ach, och, uch (e.g. in "cha acha")](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg)
 
 [sound of ch elsewhere (e.g. in "ich")](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg)
+
+Vowels and diphthongs
+-
+
+German vowels are pronounced **shorter**:
+* in front of double consonants
+* in front of consonant combinations
+* in unstressed syllables
+
+**Otherwise**, German vowels are pronounced like this:
+    A   a      like     a   in   estudar
+        ai     like     a + i
+    Au  au     like     au  in   aumentar
+    Ä   ä      like     e   in   resto
+    Äu  äu     like     o (in moda) + i
+    E   e      like     e   in   medo
+    Ei  ei     like     a + i
+    Eu  eu     like     o (in moda) + i
+    I   i      like     i   in   isso
+        ie     like     i   in   isso
+    O   o      like     o   in   homem
+    Ö   ö      like     see remarks below
+    U   u      like     u   in   uvas
+    Ü   ü      like     see remarks below
+    Y   y      like     ü
+
+[sound of ö (e.g. in "dö")](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg)
+
+[sound of ü (e.g. in "dü")](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
+
+Stressed syllables
+-
+
+As a rule of thumb, mostly the **penultimate** syllable is stressed. Mistakes are **not** problematic. People should still be able to understand you.
+
 
 Reading exercise: Example text from the Bible (the beginning of the book of Exodus) with "irregularly" stressed syllables being marked (á etc.)
 -
