@@ -31,8 +31,8 @@ Consonants and consonant combinations systematically grouped
                else like                               s + p
     Sch sch    always like                             x   in   caixa
 
-    Ch  ch     in ach, och, uch like                   see remark 1)
-               else like                               see remark 2)
+    Ch  ch     in ach, och, uch like                   see remarks below
+               else like                               see remarks below
     H          always like                             h   in   engl. hot
         h      after a vowel                           not pronounced
                else like                               h   in   engl. hot
@@ -53,8 +53,8 @@ Consonants and consonant combinations systematically grouped
         ng     always like                             ng  in   linguagem
         nk     always like                             ng + k
 
-1) [sound of ch in ach, och, uch](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg)
-2) [sound of ch elsewhere (e.g. in ich)](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg)
+[sound of ch in ach, och, uch (e.g. in ach)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg)
+[sound of ch elsewhere (e.g. in ich)](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg)
 
 
 
