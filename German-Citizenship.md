@@ -3,7 +3,7 @@
 German Citizenship
 -
 
-This document explains the procedure of getting German citizenship by marriage.
+This document explains the procedure of getting German citizenship by marriage. The following statements are mostly quotations from the sources.
 
 Requirements for German Citizenship by Marriage
 -
