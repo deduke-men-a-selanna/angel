@@ -68,6 +68,65 @@ neuter:
 Suffixes denoting grammatical gender depending on the meaning of the word
 -
 
+    grammatical gender      | masculine              | feminine           | neuter
+    ________________________|________________________|____________________|___________________
+    corresponding article   | der                    | die                | das
+    ________________________|________________________|____________________|___________________
+    suffixes with meaning   | -er                    | -e                 | -en
+                            | (someone who does      | (abstractions,     | (nominalized
+                            | something, e.g.        | e.g. Liebe "love") | infinitives, e.g.
+                            | Bäcker "baker", or     |                    | Backen "baking")
+                            | someone who is from    | -t                 |
+                            | some place, e.g.       | (abstractions,     |
+                            | Berliner "man from     | e.g. Flucht        |
+                            | Berlin")               | "escape")          |
+                            |                        |                    |
+                            |                        | -ei                |
+                            |                        | (locations, e.g.   |
+                            |                        | Bäckerei "place    |
+                            |                        | where people bake")|
+                            |                        |                    |
+                            |                        | -lei               |
+                            |                        | (abstractions, e.g.|
+                            |                        | Schmeichelei       |
+                            |                        | "flattery"         |
+                            |                        |                    |
+
+Grammatical gender being associated with categories
+-
+
+    grammatical gender      | masculine             | feminine           | neutral
+    ________________________|_______________________|____________________|__________________________
+    categories              | male persons          | female persons     | names of animal children
+                            | male animals          | female animals     | fractions
+                            | big/dangerous animals | small/harmless     |
+                            |                       |            animals |
+                            |                       | names of birds     |
+                            |                       | names of trees     |
+                            |                       | names of German    |
+                            |                       |             rivers |
+                            |                       |                    |
+
+**Examples**
+
+masculine:
+
+    Mann "man"
+    Stier "bull"
+    Wal "whale"
+
+feminine:
+
+    Frau "woman"
+    Kuh "cow"
+    Maus "mouse"
+    Amsel "blackbird"
+    Birke "birch"
+    Donau "danube"
+
+neuter:
+    Fohlen "foal"
+    Drittel "a third"
 
 
 [Table of Contents](Readme.md)
