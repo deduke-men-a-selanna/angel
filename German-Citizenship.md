@@ -53,7 +53,7 @@ You must give up all previous citizenships, except if the other country does not
 
 There are some disadvantages of dual citizenship: In many instances, you might be required to pay taxes in both countries where you have your citizenship and complete military service as per German law.
 
-German rules do not allow their citizens to give up German citizenship. More specifically, if German citizen wants to renounce their citizenship to avoid an obligation to Germany, such as taxes or military service, they will not be allowed to do this. So, since you cannot give up citizenship, you can only lose it under specific circumstances (see Source 1).
+German rules do not allow their citizens to give up German citizenship. More specifically, if a German citizen wants to renounce their citizenship to avoid an obligation to Germany, such as taxes or military service, they will not be allowed to do this. So, since you cannot give up citizenship, you can only lose it under specific circumstances (see [Source 1](https://www.germany-visa.org/german-citizenship/)).
 
 If you have renounced your German citizenship in the past or have lost it for reasons other than criminal activity, you can apply for renaturalization. The procedure will be the same as for those who apply for naturalization the first time, and you will have to give up all previous citizenship.
 
