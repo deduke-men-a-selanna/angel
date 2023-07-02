@@ -95,7 +95,7 @@ Suffixes denoting grammatical gender depending on the meaning of the word
 Grammatical gender being associated with categories
 -
 
-    grammatical gender      | masculine             | feminine           | neutral
+    grammatical gender      | masculine             | feminine           | neuter
     ________________________|_______________________|____________________|__________________________
     categories              | male persons          | female persons     | names of animal children
                             | male animals          | female animals     | fractions
@@ -125,6 +125,7 @@ feminine:
     Donau "danube"
 
 neuter:
+
     Fohlen "foal"
     Drittel "a third"
 
