@@ -28,9 +28,7 @@ Suffixes and prefixes denoting grammatical gender
                             |                  |                    |
 
 
-Examples
-_
-
+**Examples**
 
 masculine:
 
