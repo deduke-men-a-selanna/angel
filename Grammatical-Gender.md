@@ -27,8 +27,10 @@ Suffixes and prefixes denoting grammatical gender
     prefixes                |                  |                    |      Ge-
                             |                  |                    |
 
+
 Examples
 _
+
 
 masculine:
 
