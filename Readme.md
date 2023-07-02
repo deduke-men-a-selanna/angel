@@ -6,9 +6,9 @@ Table of contents
 
 * German language
     * [Pronunciation](Pronunciation.md)
-    * [Grammatical Gender](Grammatical-Gender.md)
+    * [Grammatical gender](Grammatical-Gender.md)
 * Other
-    * [German Citizenship](German-Citizenship.md)
+    * [German citizenship](German-Citizenship.md)
 
 
 

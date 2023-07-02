@@ -1,11 +1,11 @@
 [Table of Contents](Readme.md)
 
-German Citizenship
+German citizenship
 -
 
 This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization. The following statements are mostly quotations or translated quotations from the sources.
 
-Requirements for Getting German Citizenship by Marriage
+Requirements for getting German citizenship by marriage
 -
 
 * **The foreign national spouse cannot apply for naturalization unless the couple has been married for at least two years and has lived in Germany for at least three years.**
