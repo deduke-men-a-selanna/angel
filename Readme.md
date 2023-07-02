@@ -2,10 +2,11 @@
 Table of contents
 -
 
-* German
+* German language
     * [Pronunciation](Pronunciation.md)
     * [Grammatical Gender](Grammatical-Gender.md)
 * Other
+    * [German Citizenship](German-Citizenship.md)
 
 
 
