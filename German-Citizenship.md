@@ -3,7 +3,7 @@
 German Citizenship
 -
 
-This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization. The following statements are mostly quotations from the sources.
+This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization. The following statements are mostly quotations or translated quotations from the sources.
 
 Requirements for Getting German Citizenship by Marriage
 -
@@ -20,11 +20,14 @@ You can prove that you know German up to the B1 level required by the Common Eur
 
     * A German language certificate such as the Zertifikat Deutsch.
     * A certification that you have obtained through an integration course, such as the “DTZ – German test for immigrants.”
-    * If you do not have any document, which proves your language proficiency, you can complete a government language test administered by your citizenship authority.
+
+If you do not have any document, which proves your language proficiency, you can complete a government language test administered by your citizenship authority.
 
 * **You must be financially able to support yourself and your family without any help from the state.**
 
 For financial stability, you can submit bank statements and other documents, which state your financial situation.
+
+...
 
 * **You must be a law-abiding citizen with no criminal record.**
 
@@ -38,7 +41,13 @@ To prepare for the test, you can take an integration course, use the practice te
 
 You must give up all previous citizenships, except if the other country does not allow it or it is impossible to give it up. This impossibility is the case with many countries involved in conflicts, such as Syria.
 
+Disadvantages of dual citizenship:
 
+    In many instances, you might be required to pay taxes in both countries where you have your citizenship and complete military service as per German law.
+
+German rules do not allow their citizens to give up German citizenship. More specifically, if German citizen wants to renounce their citizenship to avoid an obligation to Germany, such as taxes or military service, they will not be allowed to do this. So, since you cannot give up citizenship, you can only lose it under specific circumstances (see Source 1).
+
+If you have renounced your German citizenship in the past or have lost it for reasons other than criminal activity, you can apply for renaturalization. The procedure will be the same as for those who apply for naturalization the first time, and you will have to give up all previous citizenship.
 
 
 Sources
