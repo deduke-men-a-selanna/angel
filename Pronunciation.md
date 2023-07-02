@@ -1,9 +1,9 @@
 [Table of Contents](Readme.md)
 
- The German letters and their **(approximate)** pronunciation
+ The German letters and their (approximate) pronunciation
 -
 
-Some details concerning rare pronunciations have been **omitted**.
+Some details (especially concerning rare pronunciations) have been **omitted**.
 
 Consonants and consonant combinations systematically grouped
 -
@@ -15,13 +15,17 @@ Double consonants (like e.g. tt) are **not** pronounced longer than single conso
     Pf  pf     always like                             p + f
     Ph  ph     always like                             f   in   ferro
     F   f      always like                             f   in   ferro
-    V   V      always like                             f   in   ferro
+    V   v      in words of Latin origin like           v   in   vento
+               else like                               f   in   ferro
     W   W      always like                             v   in   vento
 
     D   d      always like                             d   in   dar
         dt     always like                             t   in   tosta
     T   t      always like                             t   in   tosta
     Th  th     always like                             t   in   tosta
+        tz     always like                             t + ß
+        ti     in words of Latin origin like           t + ß + i
+               else like                               t + i
     Z   z      always like                             t + ß
     C   c      always like                             t + ß
         ß      always like                             s   in   sapo
@@ -35,7 +39,7 @@ Double consonants (like e.g. tt) are **not** pronounced longer than single conso
 
     Ch  ch     see remarks below
     H          always like                             h   in   engl. hot
-        h      after a vowel                           not pronounced
+        h      after a vowel                           not pronounced, but indicates a long vowel
                else like                               h   in   engl. hot
     J   j      always like                             y   in   engl. year
 
@@ -70,6 +74,7 @@ German vowels are pronounced **shorter**:
 
     A   a      like     a   in   estudar
     Aa  aa     like     a   in   estudar
+        ai     like     ai  in   reais
     Au  au     like     au  in   aumentar
     Ä   ä      like     e   in   resto
     Äu  äu     like     o in moda + j
@@ -80,6 +85,7 @@ German vowels are pronounced **shorter**:
     I   i      like     i   in   isso
         ie     like     i   in   isso
     O   o      like     o   in   homem
+        oo     like     o   in   homem
     Ö   ö      see remarks below
     U   u      like     u   in   uvas
     Ui  ui     like     u in estudar + j
