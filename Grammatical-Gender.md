@@ -29,7 +29,9 @@ Suffixes and prefixes denoting grammatical gender
 
 Examples
 _
+
 masculine:
+
     Frühling "spring"                   from            früh "early"
 
     Denunziant "denunciator"            compare         denunciante
@@ -37,6 +39,7 @@ masculine:
     Sozialismus "socialism"             compare         socialismo
 
 feminine:
+
     Herrin "mistress" 		            from     		Herr "master"
 	Schönheit "beauty"      	    	from		    schön "beautiful"
 	Ehrlichkeit "honesty" 	            from     		ehrlich "honest"
@@ -49,6 +52,7 @@ feminine:
 	Präsenz "presence"                  compare         presença
 
 neuter:
+
 	Irrtum "error"               	    from 		    irren "to err"
 	Zeugnis "testimony, certificate"    from 	    	zeugen "to testify"
 	Hündchen "little dog" 	            from 		    Hund "dog"
