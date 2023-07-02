@@ -53,7 +53,7 @@ feminine:
 
 neuter:
 
-    Irrtum "error"                   from            irren "to err"
+    Brauchtum "all the customs"      from            Brauch "a custom"
     Zeugnis "testimony, certificate" from            zeugen "to testify"
     Hündchen "little dog"            from            Hund "dog"
     Kindlein "little child"          from            Kind "child"
