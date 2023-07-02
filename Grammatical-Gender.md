@@ -64,7 +64,7 @@ neuter:
 
     Gerede "gossip"                     from            reden "to talk"
 
- 
+　
 
 Suffixes denoting grammatical gender depending on the meaning of the word
 _
