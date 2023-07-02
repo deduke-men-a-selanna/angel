@@ -40,10 +40,10 @@ masculine:
 
 feminine:
 
-    Herrin "mistress" 		            from     		Herr "master"
-	Schönheit "beauty"      	    	from		    schön "beautiful"
-	Ehrlichkeit "honesty" 	            from     		ehrlich "honest"
-	Knechtschaft "servitude" 	        from     		Knecht "slave"
+    Herrin "mistress"                   from     		Herr "master"
+	Schönheit "beauty"                  from		    schön "beautiful"
+	Ehrlichkeit "honesty"               from     		ehrlich "honest"
+	Knechtschaft "servitude"            from     		Knecht "slave"
 	Schreibung "spelling"	            from 		    schreiben "to write"
 
 	Faszination "fascination"           compare         fascinação
@@ -53,16 +53,16 @@ feminine:
 
 neuter:
 
-	Irrtum "error"               	    from 		    irren "to err"
+	Irrtum "error"                      from 		    irren "to err"
 	Zeugnis "testimony, certificate"    from 	    	zeugen "to testify"
 	Hündchen "little dog" 	            from 		    Hund "dog"
-	Kindlein "little child" 	        from 		    Kind "child"
-	Rätsel "riddle"			            from		    raten "to guess"
+	Kindlein "little child"             from 		    Kind "child"
+	Rätsel "riddle"                     from		    raten "to guess"
 
 	Firmament "firmament"               compare         firmamento
     Mysterium "mystery"                 compare         mistério
 
-	Gerede "gossip" 		            from 		    reden "to talk"
+	Gerede "gossip"                     from 		    reden "to talk"
 
 [Table of Contents](Readme.md)
 
