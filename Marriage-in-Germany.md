@@ -19,7 +19,7 @@ What documents are required for marriage?
 Remarks on the marriage certificate ("Ehefähigkeitszeugnis")
 -
 
-*It is required in two cases:*
+*The marriage certificate is required in two cases:*
 
 * *if Germans want to get married abroad and*
 * *if non-German nationals want to get married in Germany.*
