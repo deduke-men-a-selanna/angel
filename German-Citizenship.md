@@ -20,15 +20,15 @@ The foreign national spouse cannot apply for naturalization unless the couple ha
 
 The following requirements must be met:
 
-* *It is of essential importance that the spouses have been married on the basis of the laws and regulations applicable in Germany.*
+* *It is of essential importance that the spouses have been married on the basis of the laws and regulations applicable in Germany. (It is initially of secondary importance whether the marriage took place abroad or in Germany.)*
 
-* *It is initially of secondary importance whether the marriage took place abroad or in Germany.*
+* *Existence of the marriage at the time of naturalization: Marriage must have existed for at least two years*
 
+* *independent management of a household in Germany* (Your residence records are in the government system, so this will be an easy requirement to fulfil.)
 
+* *Residence of at least three years in Germany (non-EU citizens with a valid residence permit)*
 
 ...
-
-Your residence records are in the government system, so this will be an easy requirement to fulfil.
 
 You must prove German language proficiency of at least B1.
 -
