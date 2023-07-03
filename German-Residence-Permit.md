@@ -10,7 +10,7 @@ For nationals of Andorra, Brazil, El Salvador, Honduras, Monaco and San Marino
 
 You do **not** need a visa to enter Germany if you want to study **[or marry?]** in Germany but you will have to apply for a residence permit at the local German foreigners office if you want to stay for more than 90 days. You do need a visa before coming to Germany to work or to research, as a job seeker or for self-employment. In this case, please chose “Any other country” as the answer to the question about your nationality to find out more about the right visa for you.
 
-Check the information on [www.make-it-in-Germany.com](www.make-it-in-Germany.com) to find out more about living and working in Germany.
+Check the information on [www.make-it-in-Germany.com](make-it-in-Germany.com) to find out more about living and working in Germany.
 
 Sources
 -
