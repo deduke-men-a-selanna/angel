@@ -56,7 +56,7 @@ If you do not have any document, which proves your language proficiency, you can
 
 [Source of this information (German).](https://www.europaeischer-referenzrahmen.de/sprachkenntnisse.php)
 
-**German level B1 vocabulary:**
+**German level B1 vocabulary**
 
 * *2400 vocabulary items which at least need to be passively understood*
 * *these vocabulary items do* ***not*** *contain composite words whose meaning can be easily deduced*
@@ -74,8 +74,6 @@ You must be financially able to support yourself and your family without any hel
 -
 
 For financial stability, you can submit bank statements and other documents, which state your financial situation.
-
-...
 
 You must be a law-abiding citizen with no criminal record.
 -

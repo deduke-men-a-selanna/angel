@@ -39,8 +39,8 @@ See [German residence permit](German-Residence-Permit.md).
 Sources
 -
 
-[Source 1.](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
+[Source 1 (German).](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
 
-[Source 2.](https://www.antrag24.de/c/ehefaehigkeitszeugnis/)
+[Source 2 (German).](https://www.antrag24.de/c/ehefaehigkeitszeugnis/)
 
 [Table of Contents](Readme.md)
