@@ -30,6 +30,11 @@ Remarks on the marriage certificate ("Ehefähigkeitszeugnis")
 
 *In principle, you cannot be exempted from applying for a marriage certificate. Exceptions apply if the state of which you are a citizen does not issue any certificates of no impediment to marriage. In this case, the President of the Higher Regional Court in whose district the marriage was registered must make the decision. Ultimately, however, the registrar is still responsible, who can object to the marriage if he suspects that there are obstacles to the marriage or marriage bans.* ***You are also automatically exempt from having to provide a marriage certificate if you enter into a same-sex marriage.***
 
+Remarks on the residence permit
+-
+
+See [German residence permit](German-Residence-Permit.md).
+
 
 Sources
 -
