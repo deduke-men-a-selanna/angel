@@ -104,9 +104,9 @@ If you have renounced your German citizenship in the past or have lost it for re
 Sources
 -
 
-[Source 1](https://www.germany-visa.org/german-citizenship/)
+[Source 1.](https://www.germany-visa.org/german-citizenship/)
 
-[Source 2](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
+[Source 2 (German).](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
 
 [Table of Contents](Readme.md)
 
