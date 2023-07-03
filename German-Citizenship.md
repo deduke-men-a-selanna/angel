@@ -24,7 +24,7 @@ The following requirements must be met:
 
 * *Existence of the marriage at the time of naturalization: Marriage must have existed for at least two years*
 
-* *independent management of a household in Germany* (Your residence records are in the government system, so this will be an easy requirement to fulfil.)
+* *Independent management of a household in Germany.* (Your residence records are in the government system, so this will be an easy requirement to fulfil.)
 
 * *Residence of at least three years in Germany (non-EU citizens with a valid residence permit)*
 
