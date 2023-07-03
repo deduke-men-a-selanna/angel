@@ -8,6 +8,7 @@ As a general rule, all foreigners staying in Germany for more than 90 days wanti
 For more information:
 
 [What is the procedure for applying for a work visa?](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/07-arbeitsvisum/606666)
+
 [What is the procedure for applying for a student visa?](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08-studentenvisum/606690)
 
 Nationals of Australia, Canada, Great Britain, Israel, Japan, New Zealand, South Korea and the United States **may apply for the necessary permit after arrival** in Germany. The same applies for nationals of Andorra, **Brazil**, El Salvador, Honduras, Monaco and San Marino **who do not intend to take up employment**.
