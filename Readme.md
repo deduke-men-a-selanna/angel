@@ -9,6 +9,7 @@ Table of contents
     * [Grammatical gender](Grammatical-Gender.md)
 * Other
     * [German citizenship](German-Citizenship.md)
+    * [Marriage in Germany](Marriage-in-Germany.md)
 
 
 
