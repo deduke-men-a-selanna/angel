@@ -3,7 +3,14 @@
 German citizenship
 -
 
-This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization. The following statements are mostly quotations or translated quotations from the sources.
+This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization.
+
+The following statements are mostly quotations or translated quotations from the sources (sometimes slightly altered). **Translated quotations are in italics**.
+
+What documents are required for naturalization after marriage?
+-
+
+*In addition to a valid identity document including a photo, proof of current citizenship and a legal marriage certificate are required for naturalization in Germany. In addition, proof of income, assets and health and old-age insurance must be submitted.*
 
 Requirements for getting German citizenship by marriage
 -
@@ -11,9 +18,17 @@ Requirements for getting German citizenship by marriage
 The foreign national spouse cannot apply for naturalization unless the couple has been married for at least two years and has lived in Germany for at least three years.
 -
 
-Your residence records are in the government system, so this will be an easy requirement to fulfil.
+The following requirements must be met:
+
+* *It is of essential importance that the spouses have been married on the basis of the laws and regulations applicable in Germany.*
+
+* *It is initially of secondary importance whether the marriage took place abroad or in Germany.*
+
+
 
 ...
+
+Your residence records are in the government system, so this will be an easy requirement to fulfil.
 
 You must prove German language proficiency of at least B1.
 -
@@ -62,6 +77,7 @@ Sources
 -
 
 [Source 1](https://www.germany-visa.org/german-citizenship/)
+[Source 2](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
 
 [Table of Contents](Readme.md)
 
