@@ -38,7 +38,37 @@ You can prove that you know German up to the B1 level required by the Common Eur
 
 If you do not have any document, which proves your language proficiency, you can complete a government language test administered by your citizenship authority.
 
-...
+**German level B1 competences**
+
+*Can understand the main points of clear, standard language on familiar matters relating to work, school, leisure time etc. Can deal with most situations likely to arise when traveling in an area where the language is spoken. Can produce simple connected text on a familiar topic and of a personal interest. Can report on experiences and events, dreams, hopes and goals and give brief reasons or explanations for plans and views.*
+
+[Source of this information (German).](https://www.europaeischer-referenzrahmen.de/sprachniveau.php)
+
+*Has enough language skills to get by; the vocabulary is sufficient to be able to express oneself, albeit sometimes hesitantly and with the help of paraphrases, on topics such as family, hobbies and interests, work, travel and current events.*
+
+*Uses a repertoire of common structures and idioms related to more predictable situations with relative accuracy.*
+
+*Can express him/herself understandably without much hesitation, although he/she pauses markedly to plan or correct utterances of grammar and word choice, especially when speaking freely for long periods.*
+
+*Can initiate, maintain and complete simple direct conversation on a topic that is familiar or of personal interest. Can repeat parts of what someone has said to ensure mutual understanding.*
+
+*Can combine a series of short, simple items into a coherent linear utterance.*
+
+[Source of this information (German).](https://www.europaeischer-referenzrahmen.de/sprachkenntnisse.php)
+
+**German level B1 vocabulary:**
+
+* *2400 vocabulary items which at least need to be passively understood*
+* *these vocabulary items do* ***not*** *contain composite words whose meaning can be easily deduced*
+* *also, these vocabulary items do* ***not*** *contain nouns and verbs which are derived from other verbs or nouns and whose meaning can be easily deduced*
+
+[Source of this information (German).](https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf)
+
+**German level B1 grammar**
+
+???
+
+[Information on the "Goethe-Zertifikat B1"](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)
 
 You must be financially able to support yourself and your family without any help from the state.
 -
