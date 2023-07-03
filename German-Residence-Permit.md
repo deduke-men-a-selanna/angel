@@ -41,7 +41,7 @@ Next steps:
 -
 
 1. Check the site of the German Embassy or Consulate General in your country of residence for additional requirements in your country, [https://www.diplo.de/addresses](https://www.diplo.de/addresses), and book an appointment.
-2. Complete and print out the visa application form using [https://www.diplo.de/addresses](https://videx-national.diplo.de/videx)
+2. Complete and print out the visa application form using [https://videx-national.diplo.de/videx](https://videx-national.diplo.de/videx)
 3. Bring your application form along with supporting documents with you to your appointment
 4. After approval from the Embassy or Consulate General, get your visa sticker in your passport
 5. Apply for your Blue Card at your local foreigners office after arrival
