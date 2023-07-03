@@ -3,6 +3,8 @@
 Marriage in Germany
 -
 
+The following statements are mostly quotations or translated quotations from the sources (sometimes slightly altered). **Translated quotations are in italics**.
+
 What documents are required for marriage?
 -
 
@@ -18,6 +20,7 @@ Sources
 -
 
 [Source 1.](https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/)
+
 [Source 2.](https://www.antrag24.de/c/ehefaehigkeitszeugnis/)
 
 [Table of Contents](Readme.md)
