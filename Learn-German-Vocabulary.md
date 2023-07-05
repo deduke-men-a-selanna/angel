@@ -94,15 +94,16 @@ Unfortunately, it can't be shown here how this works, as this would go to far fo
 Regularly, these 6 forms look like this:
 
     fragen      fragt       fragte      fragte      frag        gefragt haben
+    ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
 
 From this, we can deduct the following rules for regular verbs:
 
     * the INFINITIVE needs to be learned
-    * the 3rd person singular present indicative      = INFINITIVE - en + t
-    * the 3rd person singular preterite indicative    = INFINITIVE - en + te
-    * the 3rd person singular preterite subjunctive   = INFINITIVE - en + te
-    * the 2nd person singular imperative              = INFINITIVE - en
-    * the past participle together with its auxiliary = ge + INFINITIVE - en + t + haben
+    * the 3rd person singular present indicative      = INFINITIVE - en + (e)t
+    * the 3rd person singular preterite indicative    = INFINITIVE - en + (e)te
+    * the 3rd person singular preterite subjunctive   = INFINITIVE - en + (e)te
+    * the 2nd person singular imperative              = INFINITIVE - en + (e)
+    * the past participle together with its auxiliary = ge + INFINITIVE - en + (e)t + haben
 
 Irregularly, these 6 forms might look like this, for example:
 
