@@ -1,0 +1,41 @@
+
+This is important, because this information will tell you how to use the verbs properly:
+
+    present participle                                               =           INFINITIVE + d
+    "regular" past participle + its auxiliary in infinitive form     =           ge + INFINITIVE - en + t haben
+    "regular" second person singular imperative                      =           INFINITIVE - en
+    second person plural imperative                                  =           INFINITIVE - en + (e)t
+    present indicative and subjunctive                               =           INFINITIVE - en + ENDINGS
+    "regular" preterite indicative and subjunctive                   =           INFINITIVE - en + te + ENDINGS
+
+    future infinitive                                                =           INFINITIVE + werden
+    future indicative                                                =           INFINITIVE + werden in present indicative form
+    future subjunctive                                               =           INFINITIVE + werden in present subjunctive form
+
+    perfect indicative                                               =           past participle + its auxiliary in present indicative form
+    perfect subjunctive                                              =           past participle + its auxiliary in present subjunctive form
+    pluperfect indicative                                            =           past participle + its auxiliary in past indicative form
+    pluperfect subjunctive                                           =           past participle + its auxiliary in past subjunctive form
+
+    future II infinitive                                             =           past participle + its auxiliary in infinitive form + werden
+    future II indicative	                                         =           past participle + its auxiliary in infinitive form + werden in present indicative form
+    future II subjunctive	                                         =           past participle + its auxiliary in infinitive form + werden in present subjunctive form
+
+These are the previously mentioned ENDINGS:
+
+                                                    present         present         preterite       preterite   preterite       preterite
+                                                    indicative      subjunctive     indicative      indicative  subjunctive     subjunctive
+                                                                                    -te-preterite   else        -te-preterite   else
+    first person singular       "I"                 e               e                                                           e
+    second person singular      "you"               st              est             st              st          st              est
+    third person singular       "he, she, it"       t               e                                                           e
+    first person plural         "we"                en              en              n               en          n               en
+    second person plural        "you"               t               et              t               t           t               et
+    third person plural         "they"              en              en              n               en          n               en
+
+
+**Exceptions to the rules given above**: ***TODO: sein, wissen, tun, dürfen, können, mögen, müssen, wollen, ...***
+
+
+
+

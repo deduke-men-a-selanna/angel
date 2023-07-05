@@ -28,7 +28,8 @@ I recommend downloading and importing [A Frequency Dictionary of German_.apkg](h
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
 -
 
-This is important, because this information will tell you how to use the words properly:
+This is important, because this information will tell you how to use the nouns properly:
+
 * If the **genitive singular** of a noun **ends in -s or -es**, then **all other singular cases** have **no ending and are therefore identical to the nominative singular**. However, sometimes the dative singular **can optionally** end in -e.
 * If the **genitive singular** of a noun **ends in -en**, then **the dative and accusative singular end in -en**, as well.
 * If the **genitive singular** of a **neuter (!)** noun **ends in -en**, then **only dative singular ends in -en**, as well. The **accusative singular**, however, **is identical to the nominative singular**.
@@ -48,7 +49,7 @@ Some examples for the **singular cases**:
 * If the **nominative plural** of a noun **ends in -e, -el, or -er**, then **the dative plural adds a -n** and **all other plural cases are identical to the nominative plural**.
 * If the **nominative plural** of a noun **ends in any other way**, then **all other plural cases are identical to the nominative plural**.
 
-Some examples for the **plural cases**
+Some examples for the **plural cases**:
 
     word               | Tische     | Schlüssel     | Männer     | Bären     | Autos
                        | "tables"   | "keys"        | "men"      | "bears"   | "cars"
@@ -60,20 +61,68 @@ Some examples for the **plural cases**
 
 Therefore, you need to learn, for example:
 
-    der Vater, Vaters, Väter
-    das Kind, Kindes, Kinder
-    der Mensch, Menschen, Menschen
-    das Junge, Jungen, Jungen
-    die Mutter, Mutter, Mütter
-    der Tisch, Tisches, Tische
-    der Schlüssel, Schlüssels, Schlüssel
-    der Mann, Mannes, Männer
-    der Bär, Bären, Bären
-    das Auto, Autos, Autos.
+    der Vater,      Vaters,     Väter
+    das Kind,       Kindes,     Kinder
+    der Mensch,     Menschen,   Menschen
+    das Junge,      Jungen,     Jungen
+    die Mutter,     Mutter,     Mütter
+    der Tisch,      Tisches,    Tische
+    der Schlüssel,  Schlüssels, Schlüssel
+    der Mann,       Mannes,     Männer
+    der Bär,        Bären,      Bären
+    das Auto,       Autos,      Autos.
 
 **Explanation**: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
 **Exceptions to the rules given above**: The words Herz "heart", Name "name", Buchstabe "letter", Funke "spark", Gedanke "thought", and Wille "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
+
+For every verb, there are 6 forms that need to be learned
+-
+
+These forms are:
+
+    * the infinitive
+    * the 3rd person singular present indicative
+    * the 3rd person singular preterite indicative
+    * the 3rd person singular preterite subjunctive
+    * the 2nd person singular imperative
+    * the past participle together with its auxiliary
+
+Therefore, you need to learn, for example (regular forms are written in parentheses; - means that the form doesn't exist):
+
+    trinken    (trinkt)   trank      tränke     (trink)      getrunken haben
+    nehmen     nimmt      nahm       nähme      nimm         genommen haben
+    reiten     reitet     ritt       ritte      reite        geritten haben
+    sehen      sieht      sah        sähe       sieh         gesehen haben
+    brechen    bricht     brach      bräche     brich        gebrochen haben
+    fragen     (fragt)    (fragte)   (fragte)   (frag)       (gefragt haben)
+    winken     (winkt)    (winkte)   (winkte)   (wink)       gewunken haben
+    niesen     (niest)    (nieste)   (nieste)   (nies)       (geniest haben)
+    boxen      (boxt)     (boxte)    (boxte)    (box)        (geboxt haben)
+    ordnen     ordnet     ordnete    ordnete    ordne        geordnet haben
+    nennen     (nennt)    nannte     (nennte)   (nenn)       genannt haben
+    wenden     wendet     wandte     wandte     wende        gewandt haben
+    bringen    (bringt)   brachte    brächte    (bring)      gebracht haben
+    denken     (denkt)    dachte     dächte     (denk)       gedacht haben
+    gehen      (geht)     ging       ginge      (geh)        gegangen sein
+    stehen     (steht)    stand      stünde     (steh)       gestanden haben
+    haben      hat        hatte      hätte      (hab)        (gehabt haben)
+    werden     wird       wurde      würde      (werd)       geworden sein
+    sollen     soll       (sollte)   (sollte)   -            (gesollt haben)
+
+Unfortunately, learning these is necessary, as there is **no way** to predict these forms.
+
+However, often the English verb forms are **similar**:
+
+    drink = trink       drank = trank       drunk(en) = getrunken
+    ride = reite                            ridden = geritten
+    see = sieh          saw = sah           seen = gesehen
+    break = brich       broke = brach       broken = gebrochen
+    bring = bring       brought = brachte   brought = gebracht
+    think = denk        thought = dachte    thought = gedacht
+    have = hab          had = hatte         had = gehabt
+
+A list of German irregular verbs can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
 ...
 
