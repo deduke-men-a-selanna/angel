@@ -61,16 +61,16 @@ Some examples for the **plural cases**:
 
 Therefore, you need to learn, for example:
 
-    der Vater,      Vaters,     Väter
-    das Kind,       Kindes,     Kinder
-    der Mensch,     Menschen,   Menschen
-    das Junge,      Jungen,     Jungen
-    die Mutter,     Mutter,     Mütter
-    der Tisch,      Tisches,    Tische
-    der Schlüssel,  Schlüssels, Schlüssel
-    der Mann,       Mannes,     Männer
-    der Bär,        Bären,      Bären
-    das Auto,       Autos,      Autos.
+    der Vater      Vaters     Väter
+    das Kind       Kindes     Kinder
+    der Mensch     Menschen   Menschen
+    das Junge      Jungen     Jungen
+    die Mutter     Mutter     Mütter
+    der Tisch      Tisches    Tische
+    der Schlüssel  Schlüssels Schlüssel
+    der Mann       Mannes     Männer
+    der Bär        Bären      Bären
+    das Auto       Autos      Autos.
 
 **Explanation**: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
