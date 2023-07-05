@@ -11,7 +11,7 @@ I recommend using [Anki](https://apps.ankiweb.net/).
 Use a good vocabulary card deck for Anki.
 -
 
-I recommend downloading and using [A Frequency Dictionary of German_.apkg](https://github.com/deduke-men-a-selanna/angel/raw/5629636d776de47d70176af865f462fc5a0685b1/A%20Frequency%20Dictionary%20of%20German_.apkg). This file is located in this repository.
+I recommend downloading and importing [A Frequency Dictionary of German_.apkg](https://github.com/deduke-men-a-selanna/angel/raw/5629636d776de47d70176af865f462fc5a0685b1/A%20Frequency%20Dictionary%20of%20German_.apkg). This file is located in this repository.
 * The direction of learning is German -> English. This can be changed, if necessary.
 * This deck is a slightly changed variant of [this deck](https://ankiweb.net/shared/info/912352287).
 * The following changes have been made:
@@ -71,9 +71,13 @@ Therefore, you need to learn, for example:
     der Bär, Bären, Bären
     das Auto, Autos, Autos.
 
-Explanation: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
+**Explanation**: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
-Source
+**Exceptions to the rules given above**: The words Herz "heart", Name "name", Buchstabe "letter", Funke "spark", Gedanke "thought", and Wille "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
+
+...
+
+Sources
 -
 
 [Source (German book).](https://portal.dnb.de/opac/showFullRecord?currentResultId=kurze+and+deutsche+and+grammatik%26any&currentPosition=34)
