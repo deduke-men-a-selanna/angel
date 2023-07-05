@@ -14,6 +14,8 @@ Table of contents
     * [Marriage in Germany](Marriage-in-Germany.md)
 * Files
     * A Frequency Dictionary of German_.apkg
+    * German Irregular Verbs - English to German.apkg
+    * German Irregular Verbs - German to English.apkg
 
 
 

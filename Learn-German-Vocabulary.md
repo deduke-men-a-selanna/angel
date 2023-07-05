@@ -111,7 +111,13 @@ Irregularly, these 6 forms might look like this, for example:
 
 As a consequence, in the case of the verb "sehen", all 6 forms need to be learned, as they are all irregular.
 
-A list of German irregular verbs can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
+Two Anki decks with German irregular verbs are available here:
+* [German to English](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20German%20to%20English.apkg)
+* [English to German](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20English%20to%20German.apkg)
+
+These files are located in this repository.
+
+These decks were created based on a list of German irregular verbs that can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
 
 
