@@ -13,7 +13,7 @@ Table of contents
     * [German residence permit](German-Residence-Permit.md)
     * [Marriage in Germany](Marriage-in-Germany.md)
 * Files
-    * [A Frequency Dictionary of German](A Frequency Dictionary of German_.apkg)
+    * A Frequency Dictionary of German_.apkg
 
 
 
