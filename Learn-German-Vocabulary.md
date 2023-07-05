@@ -81,12 +81,12 @@ For every verb, there are 6 forms that need to be learned
 
 These forms are:
 
-    * the infinitive
-    * the 3rd person singular present indicative
-    * the 3rd person singular preterite indicative
-    * the 3rd person singular preterite subjunctive
-    * the 2nd person singular imperative
-    * the past participle together with its auxiliary
+* the infinitive
+* the 3rd person singular present indicative
+* the 3rd person singular preterite indicative
+* the 3rd person singular preterite subjunctive
+* the 2nd person singular imperative
+* the past participle together with its auxiliary
 
 Therefore, you need to learn, for example (regular forms are written in parentheses; - means that the form doesn't exist):
 
