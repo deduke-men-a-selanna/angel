@@ -119,7 +119,8 @@ These files are located in in [this repository here](https://github.com/deduke-m
 
 These decks were created based on a list of German irregular verbs that can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
-
+For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.
+-
 
 ...
 
