@@ -97,12 +97,12 @@ Regularly, these 6 forms look like this:
 
 From this, we can deduct the following rules for regular verbs:
 
-    * the infinitive needs to be learned
-    * the 3rd person singular present indicative      = infinitive - en + t
-    * the 3rd person singular preterite indicative    = infinitive - en + te
-    * the 3rd person singular preterite subjunctive   = infinitive - en + te
-    * the 2nd person singular imperative              = infinitive - en
-    * the past participle together with its auxiliary = ge + infinitive - en + t + haben
+    * the INFINITIVE needs to be learned
+    * the 3rd person singular present indicative      = INFINITIVE - en + t
+    * the 3rd person singular preterite indicative    = INFINITIVE - en + te
+    * the 3rd person singular preterite subjunctive   = INFINITIVE - en + te
+    * the 2nd person singular imperative              = INFINITIVE - en
+    * the past participle together with its auxiliary = ge + INFINITIVE - en + t + haben
 
 Irregularly, these 6 forms might look like this, for example:
 
