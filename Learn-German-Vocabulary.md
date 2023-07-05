@@ -76,6 +76,6 @@ Explanation: The article (der, die, das) shows the grammatical gender (masculine
 Source
 -
 
-
+[Source (German book).](https://portal.dnb.de/opac/showFullRecord?currentResultId=kurze+and+deutsche+and+grammatik%26any&currentPosition=34)
 
 [Table of Contents](Readme.md)
