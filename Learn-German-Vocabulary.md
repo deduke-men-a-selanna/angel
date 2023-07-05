@@ -81,48 +81,38 @@ For every verb, there are 6 forms that need to be learned
 
 These forms are:
 
-* the infinitive
-* the 3rd person singular present indicative
-* the 3rd person singular preterite indicative
-* the 3rd person singular preterite subjunctive
-* the 2nd person singular imperative
-* the past participle together with its auxiliary
+* the infinitive ("to do")
+* the 3rd person singular present indicative ("he does")
+* the 3rd person singular preterite indicative ("he did")
+* the 3rd person singular preterite subjunctive ("he would do")
+* the 2nd person singular imperative ("Do!")
+* the past participle together with its auxiliary ("to have done")
 
-Therefore, you need to learn, for example (regular forms are written in parentheses; - means that the form doesn't exist):
+If you know these 6 forms of a verb, then you can derive all other forms from them.
+Unfortunately, it can't be shown here how this works, as this would go to far for now.
 
-    trinken    (trinkt)   trank      tränke     (trink)      getrunken haben
-    nehmen     nimmt      nahm       nähme      nimm         genommen haben
-    reiten     reitet     ritt       ritte      reite        geritten haben
-    sehen      sieht      sah        sähe       sieh         gesehen haben
-    brechen    bricht     brach      bräche     brich        gebrochen haben
-    fragen     (fragt)    (fragte)   (fragte)   (frag)       (gefragt haben)
-    winken     (winkt)    (winkte)   (winkte)   (wink)       gewunken haben
-    niesen     (niest)    (nieste)   (nieste)   (nies)       (geniest haben)
-    boxen      (boxt)     (boxte)    (boxte)    (box)        (geboxt haben)
-    ordnen     ordnet     ordnete    ordnete    ordne        geordnet haben
-    nennen     (nennt)    nannte     (nennte)   (nenn)       genannt haben
-    wenden     wendet     wandte     wandte     wende        gewandt haben
-    bringen    (bringt)   brachte    brächte    (bring)      gebracht haben
-    denken     (denkt)    dachte     dächte     (denk)       gedacht haben
-    gehen      (geht)     ging       ginge      (geh)        gegangen sein
-    stehen     (steht)    stand      stünde     (steh)       gestanden haben
-    haben      hat        hatte      hätte      (hab)        (gehabt haben)
-    werden     wird       wurde      würde      (werd)       geworden sein
-    sollen     soll       (sollte)   (sollte)   -            (gesollt haben)
+Regularly, these 6 forms look like this:
 
-Unfortunately, learning these is necessary, as there is **no way** to predict these forms.
+    fragen      fragt       fragte      fragte      frag        gefragt haben
 
-However, often the English verb forms are **similar**:
+From this, we can deduct the following rules for regular verbs:
 
-    drink = trink       drank = trank       drunk(en) = getrunken
-    ride = reite                            ridden = geritten
-    see = sieh          saw = sah           seen = gesehen
-    break = brich       broke = brach       broken = gebrochen
-    bring = bring       brought = brachte   brought = gebracht
-    think = denk        thought = dachte    thought = gedacht
-    have = hab          had = hatte         had = gehabt
+    * the infinitive needs to be learned
+    * the 3rd person singular present indicative      = infinitive - en + t
+    * the 3rd person singular preterite indicative    = infinitive - en + te
+    * the 3rd person singular preterite subjunctive   = infinitive - en + te
+    * the 2nd person singular imperative              = infinitive - en
+    * the past participle together with its auxiliary = ge + infinitive - en + t + haben
+
+Irregularly, these 6 forms might look like this, for example:
+
+    sehen       sieht       sah         sähe        sieh        gesehen haben
+
+As a consequence, in the case of the verb "sehen", all 6 forms need to be learned, as they are all irregular.
 
 A list of German irregular verbs can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
+
+
 
 ...
 
