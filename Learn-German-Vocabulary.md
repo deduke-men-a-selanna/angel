@@ -45,6 +45,7 @@ Some examples for the **plural cases**
     accusative         | Tische     | Schlüssel     | Männer     | Bären     | Autos
 
 Therefore, you need to learn, for example:
+
     der Vater, Vaters, Väter
     das Kind, Kindes, Kinder
     der Mensch, Menschen, Menschen
