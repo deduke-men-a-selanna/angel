@@ -23,13 +23,13 @@ Unfortunately, as these decks are identical with the only difference that their 
 These decks are slightly changed variants of [this deck](https://ankiweb.net/shared/info/912352287). The following changes have been made:
 
 * 7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are
-    * der "the; that, those; who, that"
-    * sein "to be; (past tense)"
-    * ein "a, an; one (of)"
-    * haben "to have; (past tense)"
-    * sie "she, her; they, them; you"
-    * werden "to become, get; (future tense); (passive voice)"
-    * ihr "you, her; her, their, hers, theirs; your".
+    * `der` "the; that, those; who, that"
+    * `sein` "to be; (past tense)"
+    * `ein` "a, an; one (of)"
+    * `haben` "to have; (past tense)"
+    * `sie` "she, her; they, them; you"
+    * `werden` "to become, get; (future tense); (passive voice)"
+    * `ihr` "you, her; her, their, hers, theirs; your".
 * On the answer side of every card there is now additionally the corresponding [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every German word. There you can find additional information that the cards otherwise lack.
 
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
@@ -79,9 +79,9 @@ Therefore, you need to learn, for example:
     der Bär        Bären      Bären
     das Auto       Autos      Autos
 
-`Explanation`: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
+`Explanation`: The article (`der`, `die`, `das`) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
-`Exceptions to the rules given above`: The words Herz "heart", Name "name", Buchstabe "letter", Funke "spark", Gedanke "thought", and Wille "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
+`Exceptions to the rules given above`: The nouns `Herz` "heart", `Name` "name", `Buchstabe` "letter", `Funke` "spark", `Gedanke` "thought", and `Wille` "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
 
 For every verb, there are 6 forms that need to be learned
 -
@@ -98,7 +98,7 @@ These forms are:
 If you know these 6 forms of a verb, then you can derive `all` other forms from them.
 Unfortunately, it can't be shown here how this works, as this would go to far for now.
 
-Regularly, these 6 forms look like this (the examples are fragen "to ask" and ordnen "to organize"):
+Regularly, these 6 forms look like this (the examples are `fragen` "to ask" and `ordnen` "to organize"):
 
     fragen      fragt       fragte      fragte      frag        gefragt haben
     ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
@@ -116,7 +116,7 @@ Irregularly, these 6 forms might look like this, for example:
 
     sehen       sieht       sah         sähe        sieh        gesehen haben
 
-As a consequence, in the case of the verb sehen "to see", all forms need to be learned, as they are all irregular.
+As a consequence, in the case of the verb `sehen` "to see", all forms need to be learned, as they are all irregular.
 
 `Two` Anki decks with German irregular verbs are available here:
 
