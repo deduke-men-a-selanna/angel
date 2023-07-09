@@ -79,9 +79,9 @@ Therefore, you need to learn, for example:
     der Bär        Bären      Bären
     das Auto       Autos      Autos
 
-**Explanation**: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
+`Explanation`: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
-**Exceptions to the rules given above**: The words Herz "heart", Name "name", Buchstabe "letter", Funke "spark", Gedanke "thought", and Wille "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
+`Exceptions to the rules given above`: The words Herz "heart", Name "name", Buchstabe "letter", Funke "spark", Gedanke "thought", and Wille "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
 
 For every verb, there are 6 forms that need to be learned
 -
@@ -95,7 +95,7 @@ These forms are:
 * the 2nd person singular imperative ("Do!")
 * the past participle together with its auxiliary ("to have done")
 
-If you know these 6 forms of a verb, then you can derive all other forms from them.
+If you know these 6 forms of a verb, then you can derive `all` other forms from them.
 Unfortunately, it can't be shown here how this works, as this would go to far for now.
 
 Regularly, these 6 forms look like this (the examples are fragen "to ask" and ordnen "to organize"):
@@ -103,7 +103,7 @@ Regularly, these 6 forms look like this (the examples are fragen "to ask" and or
     fragen      fragt       fragte      fragte      frag        gefragt haben
     ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
 
-From this, we can deduct the following **rules for regular verbs**:
+From this, we can deduct the following `rules for regular verbs`:
 
     * the INFINITIVE needs to be learned
     * the 3rd person singular present indicative      = INFINITIVE - en + (e)t
@@ -118,14 +118,14 @@ Irregularly, these 6 forms might look like this, for example:
 
 As a consequence, in the case of the verb sehen "to see", all forms need to be learned, as they are all irregular.
 
-**Two** Anki decks with German irregular verbs are available here:
+`Two` Anki decks with German irregular verbs are available here:
 
 * [German to English](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20German%20to%20English.apkg)
 * [English to German](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20English%20to%20German.apkg)
 
 These files are located in in [this repository here](https://github.com/deduke-men-a-selanna/angel).
 
-This time, **both** decks can be used in Anki simultaneously!
+This time, `both` decks can be used in Anki simultaneously!
 
 These decks were created based on a list of German irregular verbs that can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
