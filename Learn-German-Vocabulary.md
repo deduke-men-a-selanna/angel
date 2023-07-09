@@ -11,11 +11,18 @@ I recommend using [Anki](https://apps.ankiweb.net/).
 Use a good vocabulary card deck for Anki.
 -
 
-I recommend downloading and importing [A Frequency Dictionary of German_.apkg](https://github.com/deduke-men-a-selanna/angel/raw/5629636d776de47d70176af865f462fc5a0685b1/A%20Frequency%20Dictionary%20of%20German_.apkg). This file is located in [this repository here](https://github.com/deduke-men-a-selanna/angel).
-* The direction of learning is German -> English. This can be changed, if necessary.
-* This deck is a slightly changed variant of [this deck](https://ankiweb.net/shared/info/912352287).
+I recommend downloading and importing **one** of the following decks:
+
+* [A Frequency Dictionary of German - German to English.apkg](https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20German%20to%20English.apkg).
+* [A Frequency Dictionary of German - English to German.apkg](https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20English%20to%20German.apkg).
+
+These files are located in [this repository here](https://github.com/deduke-men-a-selanna/angel).
+
+Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose **one** of these decks.
+
+* These decks are slightly changed variants of [this deck](https://ankiweb.net/shared/info/912352287).
 * The following changes have been made:
-    * 7 words have been suspended, as they are too confusing in the beginning to learn as vocabulary. These words are
+    * 7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are
         * der "the; that, those; who, that"
         * sein "to be; (past tense)"
         * ein "a, an; one (of)"
@@ -23,7 +30,7 @@ I recommend downloading and importing [A Frequency Dictionary of German_.apkg](h
         * sie "she, her; they, them; you"
         * werden "to become, get; (future tense); (passive voice)"
         * ihr "you, her; her, their, hers, theirs; your".
-    * On the answer side of every card there is now additionally the corresponding [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every word. There you can find additional information that the cards otherwise lack.
+    * On the answer side of every card there is now additionally the corresponding [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every German word. There you can find additional information that the cards otherwise lack.
 
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
 -
@@ -70,7 +77,7 @@ Therefore, you need to learn, for example:
     der Schlüssel  Schlüssels Schlüssel
     der Mann       Mannes     Männer
     der Bär        Bären      Bären
-    das Auto       Autos      Autos.
+    das Auto       Autos      Autos
 
 **Explanation**: The article (der, die, das) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
 
@@ -91,12 +98,12 @@ These forms are:
 If you know these 6 forms of a verb, then you can derive all other forms from them.
 Unfortunately, it can't be shown here how this works, as this would go to far for now.
 
-Regularly, these 6 forms look like this:
+Regularly, these 6 forms look like this (the examples are fragen "to ask" and ordnen "to organize"):
 
     fragen      fragt       fragte      fragte      frag        gefragt haben
     ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
 
-From this, we can deduct the following rules for regular verbs:
+From this, we can deduct the following **rules for regular verbs**:
 
     * the INFINITIVE needs to be learned
     * the 3rd person singular present indicative      = INFINITIVE - en + (e)t
@@ -109,13 +116,16 @@ Irregularly, these 6 forms might look like this, for example:
 
     sehen       sieht       sah         sähe        sieh        gesehen haben
 
-As a consequence, in the case of the verb "sehen", all 6 forms need to be learned, as they are all irregular.
+As a consequence, in the case of the verb sehen "to see", all forms need to be learned, as they are all irregular.
 
-Two Anki decks with German irregular verbs are available here:
+**Two** Anki decks with German irregular verbs are available here:
+
 * [German to English](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20German%20to%20English.apkg)
 * [English to German](https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20English%20to%20German.apkg)
 
 These files are located in in [this repository here](https://github.com/deduke-men-a-selanna/angel).
+
+This time, **both** decks can be used in Anki simultaneously!
 
 These decks were created based on a list of German irregular verbs that can be found [here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
