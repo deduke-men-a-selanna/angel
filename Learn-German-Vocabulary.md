@@ -100,6 +100,36 @@ Having learned the previous examples, we can deduce the noun classes of these no
 
 Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
 
+For adjectives, learn the irregular comparative and superlative forms
+-
+
+Regularly, the positive, comparative, and superlative look like this:
+
+    grün        grüner      am grünsten
+    "green"     "greener"   "the greenest"
+    frisch      frischer    am frischesten
+    "fresh"     "fresher"   "the freshest"
+
+From this, we can deduct the following `rules for regular adjectives`:
+
+    * the POSITIVE needs to be learned
+    * the comparative                       =       POSITIVE + er
+    * the superlative                       =       am + POSITIVE + (e)sten
+
+Irregularly, these 3 forms might look like this (the examples are `hart` "hard", `groß` "big", `klug` "prudent, smart",  `gut` "good", `viel` "many, much", `gern` "willingly, gladly", `bald` "soon", `oft` "often"):
+
+    hart         härter       am härtesten
+    groß         größer       am größten
+    klug         klüger       am klügsten
+
+    gut          besser       am besten
+    viel         mehr         am meisten
+    gern         lieber       am liebsten
+    bald         eher         am ehesten
+    oft          öfter        am häufigsten
+
+Fortunately, most irregular adjectives in German behave like `hart`, `groß`, and `klug` which show themselves a regularity: In the comparative, as well as in the superlative, they add two dots above the vowel which results in a different pronunciation, but other than that they are completely regular.
+
 For every verb, there are 6 forms that need to be learned
 -
 
@@ -129,7 +159,9 @@ From this, we can deduct the following `rules for regular verbs`:
     * the 2nd person singular imperative              = INFINITIVE - en + (e)
     * the past participle together with its auxiliary = ge + INFINITIVE - en + (e)t + haben
 
-Irregularly, these 6 forms might look like this, for example:
+**These regular forms don't need to be learned, as we know the rules to create them.**
+
+Irregularly, these 6 forms might look like this:
 
     sehen       sieht       sah         sähe        sieh        gesehen haben
 
