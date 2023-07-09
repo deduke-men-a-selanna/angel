@@ -20,17 +20,17 @@ These files are located in [this repository here](https://github.com/deduke-men-
 
 Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose `one` of these decks.
 
-* These decks are slightly changed variants of [this deck](https://ankiweb.net/shared/info/912352287).
-* The following changes have been made:
-    * 7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are
-        * der "the; that, those; who, that"
-        * sein "to be; (past tense)"
-        * ein "a, an; one (of)"
-        * haben "to have; (past tense)"
-        * sie "she, her; they, them; you"
-        * werden "to become, get; (future tense); (passive voice)"
-        * ihr "you, her; her, their, hers, theirs; your".
-    * On the answer side of every card there is now additionally the corresponding [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every German word. There you can find additional information that the cards otherwise lack.
+These decks are slightly changed variants of [this deck](https://ankiweb.net/shared/info/912352287). The following changes have been made:
+
+* 7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are
+    * der "the; that, those; who, that"
+    * sein "to be; (past tense)"
+    * ein "a, an; one (of)"
+    * haben "to have; (past tense)"
+    * sie "she, her; they, them; you"
+    * werden "to become, get; (future tense); (passive voice)"
+    * ihr "you, her; her, their, hers, theirs; your".
+* On the answer side of every card there is now additionally the corresponding [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every German word. There you can find additional information that the cards otherwise lack.
 
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
 -
