@@ -96,7 +96,7 @@ Having learned the previous examples, we can deduce the noun classes of these no
     der Bär        s2a         p2
     das Auto       s1          p2
 
-`Exceptions to the rules given above`: The nouns `Herz` "heart", `Name` "name", `Buchstabe` "letter", `Funke` "spark", `Gedanke` "thought", and `Wille` "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
+`Exceptions to the rules given above`: The nouns [Herz](https://en.wiktionary.org/wiki/Herz#Declension) "heart", [Name](https://en.wiktionary.org/wiki/Name#Declension) "name", [Buchstabe](https://en.wiktionary.org/wiki/Buchstabe#Declension) "letter", [Funke](https://en.wiktionary.org/wiki/Funke#Declension) "spark", [Gedanke](https://en.wiktionary.org/wiki/Gedanke#Declension) "thought", and [Wille](https://en.wiktionary.org/wiki/Wille#Declension) "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
 
 For every verb, there are 6 forms that need to be learned
 -
