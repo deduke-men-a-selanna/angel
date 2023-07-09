@@ -37,13 +37,14 @@ For every noun, learn the grammatical gender, the genitive singular and the nomi
 
 This is important, because this information will tell you how to use the nouns properly:
 
-* If the **genitive singular** of a noun **ends in -s or -es**, then **all other singular cases** have **no ending and are therefore identical to the nominative singular**. However, sometimes the dative singular **can optionally** end in -e.
-* If the **genitive singular** of a noun **ends in -en**, then **the dative and accusative singular end in -en**, as well.
-* If the **genitive singular** of a **neuter (!)** noun **ends in -en**, then **only dative singular ends in -en**, as well. The **accusative singular**, however, **is identical to the nominative singular**.
-* If the **genitive singular** of a noun **is identical to the nominative singular**, then **all other singular cases are identical to the nominative singular**, as well.
+* `Nouns of class s1`: If the **genitive singular** of a noun **ends in -s or -es**, then **all other singular cases** have **no ending and are therefore identical to the nominative singular**. However, sometimes the dative singular **can optionally** end in -e.
+* `Nouns of class s2a`: If the **genitive singular** of a noun **ends in -en**, then **the dative and accusative singular end in -en**, as well.
+* `Nouns of class s2b`: If the **genitive singular** of a **neuter** noun **ends in -en**, then **only dative singular ends in -en**, as well. The **accusative singular**, however, **is identical to the nominative singular**.
+* `Nouns of class s3`: If the **genitive singular** of a noun **is identical to the nominative singular**, then **all other singular cases are identical to the nominative singular**, as well.
 
 Some examples for the `singular cases`:
 
+    noun class         | s1        | s1       | s2a           | s2b             | s3
     word               | der Vater | das Kind | der Mensch    | das Junge       | die Mutter
     grammatical gender | masculine | neuter   | masculine     | neuter          | feminine
     "the ..."          | "father"  | "child"  | "human being" | "young (thing)" | "mother"
@@ -53,11 +54,12 @@ Some examples for the `singular cases`:
     dative             | Vater     | Kind(e)  | Menschen      | Jungen          | Mutter
     accusative         | Vater     | Kind     | Menschen      | Junge           | Mutter
 
-* If the **nominative plural** of a noun **ends in -e, -el, or -er**, then **the dative plural adds a -n** and **all other plural cases are identical to the nominative plural**.
-* If the **nominative plural** of a noun **ends in any other way**, then **all other plural cases are identical to the nominative plural**.
+* `Nouns of class p1`: If the **nominative plural** of a noun **ends in -e, -el, or -er**, then **the dative plural adds a -n** and **all other plural cases are identical to the nominative plural**.
+* `Nouns of class p2`: If the **nominative plural** of a noun **ends in any other way**, then **all other plural cases are identical to the nominative plural**.
 
 Some examples for the `plural cases`:
 
+    noun class         | p1         | p1            | p1         | p2        | p2
     word               | Tische     | Schlüssel     | Männer     | Bären     | Autos
                        | "tables"   | "keys"        | "men"      | "bears"   | "cars"
     ___________________|____________|_______________|____________|___________|____________
@@ -80,6 +82,19 @@ Therefore, you need to learn, for example:
     das Auto       Autos      Autos
 
 `Explanation`: The article (`der`, `die`, `das`) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.
+
+Having learned the previous examples, we can deduce the noun classes of these nouns:
+
+    der Vater      s1          p1
+    das Kind       s1          p1
+    der Mensch     s2a         p2
+    das Junge      s2b         p2
+    die Mutter     s3          p1
+    der Tisch      s1          p1
+    der Schlüssel  s1          p1
+    der Mann       s1          p1
+    der Bär        s2a         p2
+    das Auto       s1          p2
 
 `Exceptions to the rules given above`: The nouns `Herz` "heart", `Name` "name", `Buchstabe` "letter", `Funke` "spark", `Gedanke` "thought", and `Wille` "will". Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.
 
