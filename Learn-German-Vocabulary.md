@@ -11,14 +11,14 @@ I recommend using [Anki](https://apps.ankiweb.net/).
 Use a good vocabulary card deck for Anki.
 -
 
-I recommend downloading and importing **one** of the following decks:
+I recommend downloading and importing `one` of the following decks:
 
 * [A Frequency Dictionary of German - German to English.apkg](https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20German%20to%20English.apkg).
 * [A Frequency Dictionary of German - English to German.apkg](https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20English%20to%20German.apkg).
 
 These files are located in [this repository here](https://github.com/deduke-men-a-selanna/angel).
 
-Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose **one** of these decks.
+Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose `one` of these decks.
 
 * These decks are slightly changed variants of [this deck](https://ankiweb.net/shared/info/912352287).
 * The following changes have been made:
@@ -42,7 +42,7 @@ This is important, because this information will tell you how to use the nouns p
 * If the **genitive singular** of a **neuter (!)** noun **ends in -en**, then **only dative singular ends in -en**, as well. The **accusative singular**, however, **is identical to the nominative singular**.
 * If the **genitive singular** of a noun **is identical to the nominative singular**, then **all other singular cases are identical to the nominative singular**, as well.
 
-Some examples for the **singular cases**:
+Some examples for the `singular cases`:
 
     word               | der Vater | das Kind | der Mensch    | das Junge       | die Mutter
     grammatical gender | masculine | neuter   | masculine     | neuter          | feminine
@@ -56,7 +56,7 @@ Some examples for the **singular cases**:
 * If the **nominative plural** of a noun **ends in -e, -el, or -er**, then **the dative plural adds a -n** and **all other plural cases are identical to the nominative plural**.
 * If the **nominative plural** of a noun **ends in any other way**, then **all other plural cases are identical to the nominative plural**.
 
-Some examples for the **plural cases**:
+Some examples for the `plural cases`:
 
     word               | Tische     | Schlüssel     | Männer     | Bären     | Autos
                        | "tables"   | "keys"        | "men"      | "bears"   | "cars"
