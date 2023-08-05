@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>German-Citizenship.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+<link rel="stylesheet" href="file:///c%3A/Users/Sylvester/Desktop/anderes/kA/kaua/x/gitdocs_angel/article-style.css" type="text/css">
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p>View this document as <a href="German-Citizenship.html">HTML</a>, <a href="German-Citizenship.pdf">PDF</a>, <a href="German-Citizenship.jpeg">JPG</a>, or <a href="German-Citizenship.png">PNG</a>.</p>
+<p><a href="Readme.md">Table of Contents</a></p>
+<h2 id="german-citizenship">German citizenship</h2>
+<p>This document explains the procedure of getting German citizenship by marriage. Getting German citizenship by marriage is a special case of getting German citizenship by naturalization.</p>
+<p>The following statements are mostly quotations or translated quotations from the sources (sometimes slightly altered). <strong>Translated quotations are in italics</strong>.</p>
+<h2 id="what-documents-are-required-for-naturalization-after-marriage">What documents are required for naturalization after marriage?</h2>
+<p><em>In addition to a valid identity document including a photo, proof of current citizenship and a legal marriage certificate are required for naturalization in Germany. In addition, proof of income, assets and health and old-age insurance must be submitted.</em></p>
+<h2 id="requirements-for-getting-german-citizenship-by-marriage">Requirements for getting German citizenship by marriage</h2>
+<h2 id="the-foreign-national-spouse-cannot-apply-for-naturalization-unless-the-couple-has-been-married-for-at-least-two-years-and-has-lived-in-germany-for-at-least-three-years">The foreign national spouse cannot apply for naturalization unless the couple has been married for at least two years and has lived in Germany for at least three years.</h2>
+<p>The following requirements must be met:</p>
+<ul>
+<li>
+<p><em>It is of essential importance that the spouses have been married on the basis of the laws and regulations applicable in Germany. It is initially of secondary importance whether the marriage took place abroad or in Germany. In principle, any marriage that has been concluded under the conditions of marital capacity and compliance with the applicable German laws is considered legal in Germany. In the case of “German citizen marrying a foreigner”, the regulations of the respective home country must also be taken into account. If a German and a German or a binational couple get married abroad, the official marriage certificate must be presented in Germany. On the basis of this, an entry in the German marriage register can also be made.</em> For information on what documents are require for marriage in Germany, see <a href="Marriage-in-Germany.md">Marriage in Germany</a>.</p>
+</li>
+<li>
+<p><em>Existence of the marriage at the time of naturalization: Marriage must have existed for at least two years. In addition, the relationship during this time must be conducted as a marital partnership according to German guidelines.</em></p>
+</li>
+<li>
+<p><em>Independent management of a household in Germany.</em> (Your residence records are in the government system, so this will be an easy requirement to fulfil.)</p>
+</li>
+<li>
+<p><em>Residence of at least three years in Germany (non-EU citizens with a valid residence permit).</em></p>
+</li>
+</ul>
+<h2 id="you-must-prove-german-language-proficiency-of-at-least-b1">You must prove German language proficiency of at least B1.</h2>
+<p>You can prove that you know German up to the B1 level required by the Common European Framework of Reference for Languages, by providing any of these documents:</p>
+<ul>
+<li>A German language certificate such as the Zertifikat Deutsch.</li>
+<li>A certification that you have obtained through an integration course, such as the “DTZ – German test for immigrants.”</li>
+</ul>
+<p>If you do not have any document, which proves your language proficiency, you can complete a government language test administered by your citizenship authority.</p>
+<p><strong>German level B1 competences</strong></p>
+<p><em>Can understand the main points of clear, standard language on familiar matters relating to work, school, leisure time etc. Can deal with most situations likely to arise when traveling in an area where the language is spoken. Can produce simple connected text on a familiar topic and of a personal interest. Can report on experiences and events, dreams, hopes and goals and give brief reasons or explanations for plans and views.</em></p>
+<p><a href="https://www.europaeischer-referenzrahmen.de/sprachniveau.php">Source of this information (German).</a></p>
+<p><em>Has enough language skills to get by; the vocabulary is sufficient to be able to express oneself, albeit sometimes hesitantly and with the help of paraphrases, on topics such as family, hobbies and interests, work, travel and current events.</em></p>
+<p><em>Uses a repertoire of common structures and idioms related to more predictable situations with relative accuracy.</em></p>
+<p><em>Can express him/herself understandably without much hesitation, although he/she pauses markedly to plan or correct utterances of grammar and word choice, especially when speaking freely for long periods.</em></p>
+<p><em>Can initiate, maintain and complete simple direct conversation on a topic that is familiar or of personal interest. Can repeat parts of what someone has said to ensure mutual understanding.</em></p>
+<p><em>Can combine a series of short, simple items into a coherent linear utterance.</em></p>
+<p><a href="https://www.europaeischer-referenzrahmen.de/sprachkenntnisse.php">Source of this information (German).</a></p>
+<p><strong>German level B1 vocabulary</strong></p>
+<ul>
+<li><em>2400 vocabulary items which at least need to be passively understood</em></li>
+<li><em>these vocabulary items do</em> <em><strong>not</strong></em> <em>contain composite words whose meaning can be easily deduced</em></li>
+<li><em>also, these vocabulary items do</em> <em><strong>not</strong></em> <em>contain nouns and verbs which are derived from other verbs or nouns and whose meaning can be easily deduced</em></li>
+</ul>
+<p><a href="https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf">Source of this information (German).</a></p>
+<p><strong>German level B1 grammar</strong></p>
+<p>???</p>
+<p><a href="https://www.goethe.de/en/spr/kup/prf/prf/gb1.html">Information on the &quot;Goethe-Zertifikat B1&quot;</a></p>
+<h2 id="you-must-be-financially-able-to-support-yourself-and-your-family-without-any-help-from-the-state">You must be financially able to support yourself and your family without any help from the state.</h2>
+<p>For financial stability, you can submit bank statements and other documents, which state your financial situation.</p>
+<h2 id="you-must-be-a-law-abiding-citizen-with-no-criminal-record">You must be a law-abiding citizen with no criminal record.</h2>
+<h2 id="you-must-pass-a-citizenship-test">You must pass a citizenship test.</h2>
+<p>This test includes 33 multiple choice questions on German living, society, rules, and laws, as well as questions specific to the place you live. The test takes one hour, and you must answer at least 17 questions correctly to pass the test. When you pass the test, you will get a naturalization certificate, which you can add to your document file.</p>
+<p>To prepare for the test, you can take an integration course, use the practice test options of the Federal Office for Migration and Refugees, or simply read more information on German life and laws.</p>
+<p>...</p>
+<h2 id="you-must-renounce-any-previous-citizenships">You must renounce any previous citizenships.</h2>
+<p>You must give up all previous citizenships, except if the other country does not allow it or it is impossible to give it up. This impossibility is the case with many countries involved in conflicts, such as Syria.</p>
+<p>There are some disadvantages of dual citizenship: In many instances, you might be required to pay taxes in both countries where you have your citizenship and complete military service as per German law.</p>
+<p>German rules do not allow their citizens to give up German citizenship. More specifically, if a German citizen wants to renounce their citizenship to avoid an obligation to Germany, such as taxes or military service, they will not be allowed to do this. So, since you cannot give up citizenship, you can only lose it under specific circumstances (see <a href="https://www.germany-visa.org/german-citizenship/">Source 1</a>).</p>
+<p>If you have renounced your German citizenship in the past or have lost it for reasons other than criminal activity, you can apply for renaturalization. The procedure will be the same as for those who apply for naturalization the first time, and you will have to give up all previous citizenship.</p>
+<h2 id="sources">Sources</h2>
+<p><a href="https://www.germany-visa.org/german-citizenship/">Source 1.</a></p>
+<p><a href="https://www.antrag24.de/c/deutsche-staatsbuergerschaft-heiraten/">Source 2 (German).</a></p>
+<p><a href="Readme.md">Table of Contents</a></p>
+
+</body>
+</html>

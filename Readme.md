@@ -1,6 +1,8 @@
 
 Everything is work in progress.
 
+View this document as [HTML](Readme.html), [PDF](Readme.pdf), [JPG](Readme.jpeg), or [PNG](Readme.png).
+
 Table of contents
 -
 

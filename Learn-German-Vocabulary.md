@@ -1,3 +1,5 @@
+View this document as [HTML](Learn-German-Vocabulary.html), [PDF](Learn-German-Vocabulary.pdf), [JPG](Learn-German-Vocabulary.jpeg), or [PNG](Learn-German-Vocabulary.png).
+
 [Table of Contents](Readme.md)
 
 How to learn German vocabulary effectively?

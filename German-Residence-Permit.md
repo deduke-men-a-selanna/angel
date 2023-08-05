@@ -1,3 +1,5 @@
+View this document as [HTML](German-Residence-Permit.html), [PDF](German-Residence-Permit.pdf), [JPG](German-Residence-Permit.jpeg), or [PNG](German-Residence-Permit.png).
+
 [Table of Contents](Readme.md)
 
 German residence permit

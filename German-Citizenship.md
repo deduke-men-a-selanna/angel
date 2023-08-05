@@ -1,3 +1,5 @@
+View this document as [HTML](German-Citizenship.html), [PDF](German-Citizenship.pdf), [JPG](German-Citizenship.jpeg), or [PNG](German-Citizenship.png).
+
 [Table of Contents](Readme.md)
 
 German citizenship

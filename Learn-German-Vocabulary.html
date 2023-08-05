@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learn-German-Vocabulary.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+<link rel="stylesheet" href="file:///c%3A/Users/Sylvester/Desktop/anderes/kA/kaua/x/gitdocs_angel/article-style.css" type="text/css">
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p>View this document as <a href="Learn-German-Vocabulary.html">HTML</a>, <a href="Learn-German-Vocabulary.pdf">PDF</a>, <a href="Learn-German-Vocabulary.jpeg">JPG</a>, or <a href="Learn-German-Vocabulary.png">PNG</a>.</p>
+<p><a href="Readme.md">Table of Contents</a></p>
+<h2 id="how-to-learn-german-vocabulary-effectively">How to learn German vocabulary effectively?</h2>
+<h2 id="use-a-vocabulary-learning-app">Use a vocabulary learning app.</h2>
+<p>I recommend using <a href="https://apps.ankiweb.net/">Anki</a>.</p>
+<h2 id="use-a-good-vocabulary-card-deck-for-anki">Use a good vocabulary card deck for Anki.</h2>
+<p>I recommend downloading and importing <code>one</code> of the following decks:</p>
+<ul>
+<li><a href="https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20German%20to%20English.apkg">A Frequency Dictionary of German - German to English.apkg</a>.</li>
+<li><a href="https://github.com/deduke-men-a-selanna/angel/raw/main/A%20Frequency%20Dictionary%20of%20German%20-%20English%20to%20German.apkg">A Frequency Dictionary of German - English to German.apkg</a>.</li>
+</ul>
+<p>These files are located in <a href="https://github.com/deduke-men-a-selanna/angel">this repository here</a>.</p>
+<p>Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose <code>one</code> of these decks.</p>
+<p>These decks are slightly changed variants of <a href="https://ankiweb.net/shared/info/912352287">this deck</a>. The following changes have been made:</p>
+<ul>
+<li>7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are
+<ul>
+<li><code>der</code> &quot;the; that, those; who, that&quot;</li>
+<li><code>sein</code> &quot;to be; (past tense)&quot;</li>
+<li><code>ein</code> &quot;a, an; one (of)&quot;</li>
+<li><code>haben</code> &quot;to have; (past tense)&quot;</li>
+<li><code>sie</code> &quot;she, her; they, them; you&quot;</li>
+<li><code>werden</code> &quot;to become, get; (future tense); (passive voice)&quot;</li>
+<li><code>ihr</code> &quot;you, her; her, their, hers, theirs; your&quot;.</li>
+</ul>
+</li>
+<li>On the answer side of every card there is now additionally the corresponding <a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page">Wiktionary</a> entry to every German word. There you can find additional information that the cards otherwise lack.</li>
+</ul>
+<h2 id="for-every-noun-learn-the-grammatical-gender-the-genitive-singular-and-the-nominative-plural">For every noun, learn the grammatical gender, the genitive singular and the nominative plural.</h2>
+<p>This is important, because this information will tell you how to use the nouns properly:</p>
+<ul>
+<li><code>Nouns of class s1</code>: If the <strong>genitive singular</strong> of a noun <strong>ends in -s or -es</strong>, then <strong>all other singular cases</strong> have <strong>no ending and are therefore identical to the nominative singular</strong>. However, sometimes the dative singular <strong>can optionally</strong> end in -e.</li>
+<li><code>Nouns of class s2a</code>: If the <strong>genitive singular</strong> of a noun <strong>ends in -en</strong>, then <strong>the dative and accusative singular end in -en</strong>, as well.</li>
+<li><code>Nouns of class s2b</code>: If the <strong>genitive singular</strong> of a <strong>neuter</strong> noun <strong>ends in -en</strong>, then <strong>only dative singular ends in -en</strong>, as well. The <strong>accusative singular</strong>, however, <strong>is identical to the nominative singular</strong>.</li>
+<li><code>Nouns of class s3</code>: If the <strong>genitive singular</strong> of a noun <strong>is identical to the nominative singular</strong>, then <strong>all other singular cases are identical to the nominative singular</strong>, as well.</li>
+</ul>
+<p>Some examples for the <code>singular cases</code>:</p>
+<pre><code>noun class         | s1        | s1       | s2a           | s2b             | s3
+word               | der Vater | das Kind | der Mensch    | das Junge       | die Mutter
+grammatical gender | masculine | neuter   | masculine     | neuter          | feminine
+&quot;the ...&quot;          | &quot;father&quot;  | &quot;child&quot;  | &quot;human being&quot; | &quot;young (thing)&quot; | &quot;mother&quot;
+___________________|___________|__________|_______________|_________________|_____________
+nominative         | Vater     | Kind     | Mensch        | Junge           | Mutter
+genitive           | Vaters    | Kindes   | Menschen      | Jungen          | Mutter
+dative             | Vater     | Kind(e)  | Menschen      | Jungen          | Mutter
+accusative         | Vater     | Kind     | Menschen      | Junge           | Mutter
+</code></pre>
+<ul>
+<li><code>Nouns of class p1</code>: If the <strong>nominative plural</strong> of a noun <strong>ends in -e, -el, or -er</strong>, then <strong>the dative plural adds a -n</strong> and <strong>all other plural cases are identical to the nominative plural</strong>.</li>
+<li><code>Nouns of class p2</code>: If the <strong>nominative plural</strong> of a noun <strong>ends in any other way</strong>, then <strong>all other plural cases are identical to the nominative plural</strong>.</li>
+</ul>
+<p>Some examples for the <code>plural cases</code>:</p>
+<pre><code>noun class         | p1         | p1            | p1         | p2        | p2
+word               | Tische     | Schlüssel     | Männer     | Bären     | Autos
+                   | &quot;tables&quot;   | &quot;keys&quot;        | &quot;men&quot;      | &quot;bears&quot;   | &quot;cars&quot;
+___________________|____________|_______________|____________|___________|____________
+nominative         | Tische     | Schlüssel     | Männer     | Bären     | Autos
+genitive           | Tische     | Schlüssel     | Männer     | Bären     | Autos
+dative             | Tischen    | Schlüsseln    | Männern    | Bären     | Autos
+accusative         | Tische     | Schlüssel     | Männer     | Bären     | Autos
+</code></pre>
+<p>Therefore, you need to learn, for example:</p>
+<pre><code>der Vater      Vaters     Väter
+das Kind       Kindes     Kinder
+der Mensch     Menschen   Menschen
+das Junge      Jungen     Jungen
+die Mutter     Mutter     Mütter
+der Tisch      Tisches    Tische
+der Schlüssel  Schlüssels Schlüssel
+der Mann       Mannes     Männer
+der Bär        Bären      Bären
+das Auto       Autos      Autos
+</code></pre>
+<p><code>Explanation</code>: The article (<code>der</code>, <code>die</code>, <code>das</code>) shows the grammatical gender (masculine, feminine, neuter). The first form is the nominative singular, the second form is the genitive singular, the third form is the nominative plural.</p>
+<p>Having learned the previous examples, we can deduce the noun classes of these nouns:</p>
+<pre><code>der Vater      s1          p1
+das Kind       s1          p1
+der Mensch     s2a         p2
+das Junge      s2b         p2
+die Mutter     s3          p1
+der Tisch      s1          p1
+der Schlüssel  s1          p1
+der Mann       s1          p1
+der Bär        s2a         p2
+das Auto       s1          p2
+</code></pre>
+<p><code>Special cases</code>: The nouns <a href="https://en.wiktionary.org/wiki/Herz#Declension">Herz</a> &quot;heart&quot;, <a href="https://en.wiktionary.org/wiki/Name#Declension">Name</a> &quot;name&quot;, <a href="https://en.wiktionary.org/wiki/Buchstabe#Declension">Buchstabe</a> &quot;letter&quot;, <a href="https://en.wiktionary.org/wiki/Funke#Declension">Funke</a> &quot;spark&quot;, <a href="https://en.wiktionary.org/wiki/Gedanke#Declension">Gedanke</a> &quot;thought&quot;, and <a href="https://en.wiktionary.org/wiki/Wille#Declension">Wille</a> &quot;will&quot;.</p>
+<p>Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.</p>
+<h2 id="for-adjectives-learn-the-irregular-comparative-and-superlative-forms">For adjectives, learn the irregular comparative and superlative forms</h2>
+<p>Regularly, the positive, comparative, and superlative look like this:</p>
+<pre><code>grün        grüner      am grünsten
+&quot;green&quot;     &quot;greener&quot;   &quot;the greenest&quot;
+frisch      frischer    am frischesten
+&quot;fresh&quot;     &quot;fresher&quot;   &quot;the freshest&quot;
+</code></pre>
+<p>From this, we can deduct the following <code>rules for regular adjectives</code>:</p>
+<pre><code>* the POSITIVE needs to be learned
+* the comparative                       =       POSITIVE + er
+* the superlative                       =       am + POSITIVE + (e)sten
+</code></pre>
+<p>Irregularly, these 3 forms might look like this (the examples are <code>hart</code> &quot;hard&quot;, <code>groß</code> &quot;big&quot;, <code>klug</code> &quot;prudent, smart&quot;,  <code>gut</code> &quot;good&quot;, <code>viel</code> &quot;many, much&quot;, <code>gern</code> &quot;willingly, gladly&quot;, <code>bald</code> &quot;soon&quot;, <code>oft</code> &quot;often&quot;):</p>
+<pre><code>hart         härter       am härtesten
+groß         größer       am größten
+klug         klüger       am klügsten
+
+gut          besser       am besten
+viel         mehr         am meisten
+gern         lieber       am liebsten
+bald         eher         am ehesten
+oft          öfter        am häufigsten
+</code></pre>
+<p>Fortunately, most irregular adjectives in German behave like <code>hart</code>, <code>groß</code>, and <code>klug</code> which show themselves a regularity: In the comparative, as well as in the superlative, they add two dots above the vowel which results in a different pronunciation, but other than that they are completely regular.</p>
+<h2 id="for-every-verb-there-are-6-forms-that-need-to-be-learned">For every verb, there are 6 forms that need to be learned</h2>
+<p>These forms are:</p>
+<ul>
+<li>the infinitive (&quot;to do&quot;)</li>
+<li>the 3rd person singular present indicative (&quot;he does&quot;)</li>
+<li>the 3rd person singular preterite indicative (&quot;he did&quot;)</li>
+<li>the 3rd person singular preterite subjunctive (&quot;he would do&quot;)</li>
+<li>the 2nd person singular imperative (&quot;Do!&quot;)</li>
+<li>the past participle together with its auxiliary (&quot;to have done&quot;)</li>
+</ul>
+<p>If you know these 6 forms of a verb, then you can derive <code>all</code> other forms from them.
+Unfortunately, it can't be shown here how this works, as this would go to far for now.</p>
+<p>Regularly, these 6 forms look like this (the examples are <code>fragen</code> &quot;to ask&quot; and <code>ordnen</code> &quot;to organize&quot;):</p>
+<pre><code>fragen      fragt       fragte      fragte      frag        gefragt haben
+ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
+</code></pre>
+<p>From this, we can deduct the following <code>rules for regular verbs</code>:</p>
+<pre><code>* the INFINITIVE needs to be learned
+* the 3rd person singular present indicative      = INFINITIVE - en + (e)t
+* the 3rd person singular preterite indicative    = INFINITIVE - en + (e)te
+* the 3rd person singular preterite subjunctive   = INFINITIVE - en + (e)te
+* the 2nd person singular imperative              = INFINITIVE - en + (e)
+* the past participle together with its auxiliary = ge + INFINITIVE - en + (e)t + haben
+</code></pre>
+<p><strong>These regular forms don't need to be learned, as we know the rules to create them.</strong></p>
+<p>Irregularly, these 6 forms might look like this:</p>
+<pre><code>sehen       sieht       sah         sähe        sieh        gesehen haben
+</code></pre>
+<p>As a consequence, in the case of the verb <code>sehen</code> &quot;to see&quot;, all forms need to be learned, as they are all irregular.</p>
+<p><code>Two</code> Anki decks with German irregular verbs are available here:</p>
+<ul>
+<li><a href="https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20German%20to%20English.apkg">German to English</a></li>
+<li><a href="https://github.com/deduke-men-a-selanna/angel/raw/main/German%20Irregular%20Verbs%20-%20English%20to%20German.apkg">English to German</a></li>
+</ul>
+<p>These files are located in in <a href="https://github.com/deduke-men-a-selanna/angel">this repository here</a>.</p>
+<p>This time, <code>both</code> decks can be used in Anki simultaneously!</p>
+<p>These decks were created based on a list of German irregular verbs that can be found <a href="https://jakubmarian.com/list-of-irregular-strong-german-verbs/">here</a>.</p>
+<h2 id="for-every-preposition-learn-the-cases-that-can-be-combined-with-it-as-well-as-the-meanings-of-those-combinations">For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.</h2>
+<p>...</p>
+<h2 id="sources">Sources</h2>
+<p><a href="https://portal.dnb.de/opac/showFullRecord?currentResultId=kurze+and+deutsche+and+grammatik%26any&amp;currentPosition=34">Source (German book).</a></p>
+<p><a href="Readme.md">Table of Contents</a></p>
+
+</body>
+</html>

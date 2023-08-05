@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pronunciation.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+<link rel="stylesheet" href="file:///c%3A/Users/Sylvester/Desktop/anderes/kA/kaua/x/gitdocs_angel/article-style.css" type="text/css">
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p>View this document as <a href="Pronunciation.html">HTML</a>, <a href="Pronunciation.pdf">PDF</a>, <a href="Pronunciation.jpeg">JPG</a>, or <a href="Pronunciation.png">PNG</a>.</p>
+<p><a href="Readme.md">Table of Contents</a></p>
+<h2 id="the-german-letters-and-their-approximate-pronunciation">The German letters and their (approximate) pronunciation</h2>
+<p>Some details (especially concerning rare pronunciations) have been <strong>omitted</strong>.</p>
+<h2 id="consonants-and-consonant-combinations-systematically-grouped">Consonants and consonant combinations systematically grouped</h2>
+<p>Double consonants (like e.g. tt) are <strong>not</strong> pronounced longer than single consonants in German.</p>
+<pre><code>B   b      always like                             b   in   bola
+P   p      always like                             p   in   parte
+Pf  pf     always like                             p + f
+Ph  ph     always like                             f   in   ferro
+F   f      always like                             f   in   ferro
+V   v      in words of Latin origin like           v   in   vento
+           else like                               f   in   ferro
+W   W      always like                             v   in   vento
+
+D   d      always like                             d   in   dar
+    dt     always like                             t   in   tosta
+T   t      always like                             t   in   tosta
+Th  th     always like                             t   in   tosta
+    tz     always like                             t + ß
+    ti     in words of Latin origin like           t + ß + i
+           else like                               t + i
+Z   z      always like                             t + ß
+C   c      always like                             t + ß
+    ß      always like                             s   in   sapo
+S   s      before a vowel like                     s   in   raso
+           else like                               s   in   sapo
+St  st     at the beginning of a syllable like     sch + t
+           else like                               s + t
+Sp  sp     at the beginning of a syllable like     sch + p
+           else like                               s + p
+Sch sch    always like                             x   in   caixa
+
+Ch  ch     see remarks below
+H          always like                             h   in   engl. hot
+    h      after a vowel                           not pronounced, but indicates a long vowel
+           else like                               h   in   engl. hot
+J   j      always like                             y   in   engl. year
+
+G   g      always like                             g   in   gato
+K   k      always like                             c   in   casa
+    ck     always like                             c   in   casa
+Qu  qu     always like                             k + w
+X   x      always like                             x   in   tóxico
+
+L   l      always like                             l   in   logo
+R   r      always like                             rr  in   carro
+Rh  rh     always like                             rr  in   carro
+
+M   m      always like                             m   in   mapa
+N   n      always like                             n   in   número
+    ng     always like                             ng  in   linguagem
+    nk     always like                             ng + k
+</code></pre>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg">Sound of ch in ach, och, uch (e.g. in &quot;cha acha&quot;).</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg">Sound of ch elsewhere (e.g. in &quot;ich&quot;).</a></p>
+<h2 id="vowels-and-vowel-combinations">Vowels and vowel combinations</h2>
+<p>German vowels are pronounced <strong>shorter</strong>:</p>
+<ul>
+<li>in front of double consonants</li>
+<li>in front of consonant combinations</li>
+<li>in unstressed syllables</li>
+</ul>
+<p><strong>Otherwise</strong>, German vowels are pronounced like this:</p>
+<pre><code>A   a      like     a   in   estudar
+Aa  aa     like     a   in   estudar
+    ai     like     ai  in   reais
+Au  au     like     au  in   aumentar
+Ä   ä      like     e   in   resto
+Äu  äu     like     o in moda + j
+E   e      like     e   in   medo
+    ee     like     e   in   medo
+Ei  ei     like     ai  in   reais
+Eu  eu     like     o in moda + j
+I   i      like     i   in   isso
+    ie     like     i   in   isso
+O   o      like     o   in   homem
+    oo     like     o   in   homem
+Ö   ö      see remarks below
+U   u      like     u   in   uvas
+Ui  ui     like     u in estudar + j
+Ü   ü      see remarks below
+Y          like     i or ü
+    y      like     ü
+</code></pre>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg">Sound of ö (e.g. in &quot;dö&quot;).</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg">Sound of ü (e.g. in &quot;dü&quot;).</a></p>
+<h2 id="stressed-syllables">Stressed syllables</h2>
+<p>As a <strong>rule of thumb</strong>, mostly the <strong>penultimate</strong> syllable is stressed. Mistakes are <strong>not</strong> problematic. People should still be able to understand you.</p>
+<h2 id="reading-exercise-example-text-from-the-bible-the-beginning-of-the-book-of-exodus-with-%22irregularly%22-stressed-syllables-being-marked-%C3%A1-%C2%B4%C3%A4-etc">Reading exercise: Example text from the Bible (the beginning of the book of Exodus) with &quot;irregularly&quot; stressed syllables being marked (á, ´ä etc.)</h2>
+<p>Das sind die Namen der Söhne Ísraels, die nach Ägypten gekommen waren - mit Jakob waren sie gekommen, jeder mit séiner Famílie:</p>
+<p>Ruben, Símeon, Levi, Juda,</p>
+<p>Íssachar, Sébulon, Bénjamin,</p>
+<p>Dan, Náftali, Gad und Ascher.</p>
+<p>Zusammen waren es siebzig Personen; sie alle stammten von Jakob ab. Josef aber war beréits in Ägypten.</p>
+<p>Josef, alle séine Brüder und seine Zéitgenossen waren gestorben.</p>
+<p>Aber die Söhne Ísraels waren fruchtbar, sodáss das Land von ihnen wímmelte. Sie vermehrten sich und wurden ´überaus stark; sie bev´ölkerten das Land.</p>
+<p>In Ägypten kam ein neuer König an die Macht, der Josef nicht gekánnt hatte.</p>
+<p>Er sagte zu seinem Volk: Seht nur, das Volk der Israeliten ist größer und stärker als wir.</p>
+<p>Gebt Acht! Wir müssen überlegen, was wir gegen sie tun können, damít sie sich nicht weiter vermehren. Wenn ein Krieg ausbricht, können sie sich únseren Féinden ánschließen, gegen uns kämpfen und sich des Landes bem´ächtigen.</p>
+<p>Da setzte man Frónvögte über sie ein, um sie durch schwere Árbeit unter Druck zu setzen. Sie mussten für den Phárao die Städte Pitom und Ramses als Vórratslager bauen.</p>
+<p>Je mehr man sie aber unter Druck hielt, umso stärker vermehrten sie sich und bréiteten sie sich aus, sodáss die Ägypter vor ihnen das Grauen packte.</p>
+<p>Daher gingen sie hart gegen die Israeliten vor und machten sie zu Sklaven.</p>
+<p>Sie machten ihnen das Leben schwer durch harte Árbeit mit Lehm und Ziegeln und durch alle m´öglichen Árbeiten auf den Feldern. So wurden die Israeliten zu harter Sklávenarbeit gezwungen.</p>
+<p>Zu den hebr´äischen Hébammen - die eine hieß Schifra, die ándere Pua - sagte der König von Ägypten:</p>
+<p>Wenn ihr den Hebr´äerinnen Gebúrtshilfe leistet, dann achtet auf das Geschlécht! Ist es ein Knabe, so lasst ihn sterben! Ist es ein Mädchen, dann kann es am Leben bleiben.</p>
+<p>Die Hébammen aber f´ürchteten Gott und taten nicht, was ihnen der König von Ägypten geságt hatte, sondern ließen die Kinder am Leben.</p>
+<p>Da rief der König von Ägypten die Hébammen zu sich und sagte zu ihnen: Warum tut ihr das und lasst die Kinder am Leben?</p>
+<p>Die Hébammen ántworteten dem Phárao: Bei den hebr´äischen Frauen ist es nicht wie bei den Äg´ypterinnen, sondern wie bei den Tieren: Wenn die Hébamme zu ihnen kommt, haben sie schon geboren.</p>
+<p>Gott verhálf den Hébammen zu Glück; das Volk aber vermehrte sich weiter und wurde sehr stark.</p>
+<p>Weil die Hébammen Gott f´ürchteten, schenkte er ihnen Kíndersegen.</p>
+<p>Daher gab der Phárao séinem ganzen Volk den Beféhl: Alle Knaben, die den Hebräern geboren werden, werft in den Nil! Die Mädchen dürft ihr alle am Leben lassen.</p>
+<p><a href="https://translate.google.com/?hl=de&amp;sl=de&amp;tl=pt&amp;text=Das%20sind%20die%20Namen%20der%20S%C3%B6hne%20Israels%2C%20die%20nach%20%C3%84gypten%20gekommen%20waren%20-%20mit%20Jakob%20waren%20sie%20gekommen%2C%20jeder%20mit%20seiner%20Familie%3A%09%0ARuben%2C%20Simeon%2C%20Levi%2C%20Juda%2C%09%0AIssachar%2C%20Sebulon%2C%20Benjamin%2C%09%0ADan%2C%20Naftali%2C%20Gad%20und%20Ascher.%09%0AZusammen%20waren%20es%20siebzig%20Personen%3B%20sie%20alle%20stammten%20von%20Jakob%20ab.%20Josef%20aber%20war%20bereits%20in%20%C3%84gypten.%09%0AJosef%2C%20alle%20seine%20Br%C3%BCder%20und%20seine%20Zeitgenossen%20waren%20gestorben.%09%0AAber%20die%20S%C3%B6hne%20Israels%20waren%20fruchtbar%2C%20sodass%20das%20Land%20von%20ihnen%20wimmelte.%20Sie%20vermehrten%20sich%20und%20wurden%20%C3%BCberaus%20stark%3B%20sie%20bev%C3%B6lkerten%20das%20Land.%09%0AIn%20%C3%84gypten%20kam%20ein%20neuer%20K%C3%B6nig%20an%20die%20Macht%2C%20der%20Josef%20nicht%20gekannt%20hatte.%09%0AEr%20sagte%20zu%20seinem%20Volk%3A%20Seht%20nur%2C%20das%20Volk%20der%20Israeliten%20ist%20gr%C3%B6%C3%9Fer%20und%20st%C3%A4rker%20als%20wir.%09%0AGebt%20Acht!%20Wir%20m%C3%BCssen%20%C3%BCberlegen%2C%20was%20wir%20gegen%20sie%20tun%20k%C3%B6nnen%2C%20damit%20sie%20sich%20nicht%20weiter%20vermehren.%20Wenn%20ein%20Krieg%20ausbricht%2C%20k%C3%B6nnen%20sie%20sich%20unseren%20Feinden%20anschlie%C3%9Fen%2C%20gegen%20uns%20k%C3%A4mpfen%20und%20sich%20des%20Landes%20bem%C3%A4chtigen.%09%0ADa%20setzte%20man%20Fronv%C3%B6gte%20%C3%BCber%20sie%20ein%2C%20um%20sie%20durch%20schwere%20Arbeit%20unter%20Druck%20zu%20setzen.%20Sie%20mussten%20f%C3%BCr%20den%20Pharao%20die%20St%C3%A4dte%20Pitom%20und%20Ramses%20als%20Vorratslager%20bauen.%09%0AJe%20mehr%20man%20sie%20aber%20unter%20Druck%20hielt%2C%20umso%20st%C3%A4rker%20vermehrten%20sie%20sich%20und%20breiteten%20sie%20sich%20aus%2C%20sodass%20die%20%C3%84gypter%20vor%20ihnen%20das%20Grauen%20packte.%09%0ADaher%20gingen%20sie%20hart%20gegen%20die%20Israeliten%20vor%20und%20machten%20sie%20zu%20Sklaven.%09%0ASie%20machten%20ihnen%20das%20Leben%20schwer%20durch%20harte%20Arbeit%20mit%20Lehm%20und%20Ziegeln%20und%20durch%20alle%20m%C3%B6glichen%20Arbeiten%20auf%20den%20Feldern.%20So%20wurden%20die%20Israeliten%20zu%20harter%20Sklavenarbeit%20gezwungen.%09%0AZu%20den%20hebr%C3%A4ischen%20Hebammen%20-%20die%20eine%20hie%C3%9F%20Schifra%2C%20die%20andere%20Pua%20-%20sagte%20der%20K%C3%B6nig%20von%20%C3%84gypten%3A%09%0AWenn%20ihr%20den%20Hebr%C3%A4erinnen%20Geburtshilfe%20leistet%2C%20dann%20achtet%20auf%20das%20Geschlecht!%20Ist%20es%20ein%20Knabe%2C%20so%20lasst%20ihn%20sterben!%20Ist%20es%20ein%20M%C3%A4dchen%2C%20dann%20kann%20es%20am%20Leben%20bleiben.%09%0ADie%20Hebammen%20aber%20f%C3%BCrchteten%20Gott%20und%20taten%20nicht%2C%20was%20ihnen%20der%20K%C3%B6nig%20von%20%C3%84gypten%20gesagt%20hatte%2C%20sondern%20lie%C3%9Fen%20die%20Kinder%20am%20Leben.%09%0ADa%20rief%20der%20K%C3%B6nig%20von%20%C3%84gypten%20die%20Hebammen%20zu%20sich%20und%20sagte%20zu%20ihnen%3A%20Warum%20tut%20ihr%20das%20und%20lasst%20die%20Kinder%20am%20Leben%3F%09%0ADie%20Hebammen%20antworteten%20dem%20Pharao%3A%20Bei%20den%20hebr%C3%A4ischen%20Frauen%20ist%20es%20nicht%20wie%20bei%20den%20%C3%84gypterinnen%2C%20sondern%20wie%20bei%20den%20Tieren%3A%20Wenn%20die%20Hebamme%20zu%20ihnen%20kommt%2C%20haben%20sie%20schon%20geboren.%09%0AGott%20verhalf%20den%20Hebammen%20zu%20Gl%C3%BCck%3B%20das%20Volk%20aber%20vermehrte%20sich%20weiter%20und%20wurde%20sehr%20stark.%09%0AWeil%20die%20Hebammen%20Gott%20f%C3%BCrchteten%2C%20schenkte%20er%20ihnen%20Kindersegen.%09%0ADaher%20gab%20der%20Pharao%20seinem%20ganzen%20Volk%20den%20Befehl%3A%20Alle%20Knaben%2C%20die%20den%20Hebr%C3%A4ern%20geboren%20werden%2C%20werft%20in%20den%20Nil!%20Die%20M%C3%A4dchen%20d%C3%BCrft%20ihr%20alle%20am%20Leben%20lassen.&amp;op=translate">Listen to this text with help of Google Translate.</a></p>
+<p><a href="https://www.uibk.ac.at/theol/leseraum/bibel/ex1.html">Source of this text.</a></p>
+<p><a href="Readme.md">Table of Contents</a></p>
+
+</body>
+</html>

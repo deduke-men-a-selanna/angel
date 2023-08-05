@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grammatical-Gender.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+<link rel="stylesheet" href="file:///c%3A/Users/Sylvester/Desktop/anderes/kA/kaua/x/gitdocs_angel/article-style.css" type="text/css">
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p>View this document as <a href="Grammatical-Gender.html">HTML</a>, <a href="Grammatical-Gender.pdf">PDF</a>, <a href="Grammatical-Gender.jpeg">JPG</a>, or <a href="Grammatical-Gender.png">PNG</a>.</p>
+<p><a href="Readme.md">Table of Contents</a></p>
+<h2 id="grammatical-gender">Grammatical gender</h2>
+<p>The grammatical gender of German nouns can in many cases be <strong>guessed (with varying accuracy)</strong>.</p>
+<h2 id="suffixes-and-prefixes-denoting-grammatical-gender">Suffixes and prefixes denoting grammatical gender</h2>
+<pre><code>grammatical gender    | masculine | feminine | neuter
+______________________|___________|__________|________
+corresponding article | der       | die      | das
+______________________|___________|__________|________
+suffixes              | -ling     | -in      | -tum
+                      |           | -heit    | -nis
+                      |           | -keit    | -chen
+                      |           | -schaft  | -lein
+                      |           | -ung     | -sel
+______________________|___________|__________|________
+suffixes of Latin or  |           |          |
+Greek origin          | -ant      | -ion     | -ment
+                      | -ist      | -tät     | -ium
+                      | -ismus    | -ie      |
+                      |           | -enz     |
+______________________|___________|__________|________
+prefixes              |           |          | Ge-
+                      |           |          |
+</code></pre>
+<p><strong>Examples</strong></p>
+<p>masculine:</p>
+<pre><code>Frühling &quot;spring&quot;                from            früh &quot;early&quot;
+
+Denunziant &quot;denunciator&quot;         compare         denunciante
+Sozialist &quot;socialist&quot;            compare         socialista
+Sozialismus &quot;socialism&quot;          compare         socialismo
+</code></pre>
+<p>feminine:</p>
+<pre><code>Herrin &quot;mistress&quot;                from            Herr &quot;master&quot;
+Schönheit &quot;beauty&quot;               from            schön &quot;beautiful&quot;
+Ehrlichkeit &quot;honesty&quot;            from            ehrlich &quot;honest&quot;
+Knechtschaft &quot;servitude&quot;         from            Knecht &quot;slave&quot;
+Schreibung &quot;spelling&quot;            from            schreiben &quot;to write&quot;
+
+Faszination &quot;fascination&quot;        compare         fascinação
+Majestät &quot;majesty&quot;               compare         majestade
+Phantasie &quot;fantasy&quot;              compare         fantasia
+Präsenz &quot;presence&quot;               compare         presença
+</code></pre>
+<p>neuter:</p>
+<pre><code>Brauchtum &quot;all the customs&quot;      from            Brauch &quot;a custom&quot;
+Zeugnis &quot;testimony, certificate&quot; from            zeugen &quot;to testify&quot;
+Hündchen &quot;little dog&quot;            from            Hund &quot;dog&quot;
+Kindlein &quot;little child&quot;          from            Kind &quot;child&quot;
+Rätsel &quot;riddle&quot;                  from            raten &quot;to guess&quot;
+
+Firmament &quot;firmament&quot;            compare         firmamento
+Mysterium &quot;mystery&quot;              compare         mistério
+
+Gerede &quot;gossip&quot;                  from            reden &quot;to talk&quot;
+</code></pre>
+<h2 id="suffixes-denoting-grammatical-gender-depending-on-the-meaning-of-the-word">Suffixes denoting grammatical gender depending on the meaning of the word</h2>
+<pre><code>grammatical gender    | masculine           | feminine            | neuter
+______________________|_____________________|_____________________|___________________
+corresponding article | der                 | die                 | das
+______________________|_____________________|_____________________|___________________
+suffixes with meaning | -er                 | -e                  | -en
+                      | (someone who does   | (abstractions,      | (nominalized
+                      | something, e.g.     | e.g. Liebe &quot;love&quot;)  | infinitives, e.g.
+                      | Bäcker &quot;baker&quot;, or  |                     | Backen &quot;baking&quot;)
+                      | someone who is from | -t                  |
+                      | some place, e.g.    | (abstractions,      |
+                      | Berliner &quot;man from  | e.g. Flucht         |
+                      | Berlin&quot;)            | &quot;escape&quot;)           |
+                      |                     |                     |
+                      |                     | -ei                 |
+                      |                     | (locations, e.g.    |
+                      |                     | Bäckerei &quot;place     |
+                      |                     | where people bake&quot;) |
+                      |                     |                     |
+                      |                     | -lei                |
+                      |                     | (abstractions, e.g. |
+                      |                     | Schmeichelei        |
+                      |                     | &quot;flattery&quot;          |
+                      |                     |                     |
+</code></pre>
+<h2 id="grammatical-gender-being-associated-with-categories">Grammatical gender being associated with categories</h2>
+<pre><code>grammatical gender | masculine             | feminine               | neuter
+___________________|_______________________|________________________|__________________________
+categories         | male persons          | female persons         | names of animal children
+                   | male animals          | female animals         | fractions
+                   | big/dangerous animals | small/harmless animals |
+                   |                       | names of birds         |
+                   |                       | names of trees         |
+                   |                       | names of German rivers |
+                   |                       |                        |
+</code></pre>
+<p><strong>Examples</strong></p>
+<p>masculine:</p>
+<pre><code>Mann &quot;man&quot;
+Stier &quot;bull&quot;
+Wal &quot;whale&quot;
+</code></pre>
+<p>feminine:</p>
+<pre><code>Frau &quot;woman&quot;
+Kuh &quot;cow&quot;
+Maus &quot;mouse&quot;
+Amsel &quot;blackbird&quot;
+Birke &quot;birch&quot;
+Donau &quot;Danube&quot;
+</code></pre>
+<p>neuter:</p>
+<pre><code>Fohlen &quot;foal&quot;
+Drittel &quot;a third&quot;
+</code></pre>
+<p><a href="Readme.md">Table of Contents</a></p>
+
+</body>
+</html>

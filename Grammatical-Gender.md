@@ -1,3 +1,5 @@
+View this document as [HTML](Grammatical-Gender.html), [PDF](Grammatical-Gender.pdf), [JPG](Grammatical-Gender.jpeg), or [PNG](Grammatical-Gender.png).
+
 [Table of Contents](Readme.md)
 
 Grammatical gender

@@ -1,3 +1,5 @@
+View this document as [HTML](Pronunciation.html), [PDF](Pronunciation.pdf), [JPG](Pronunciation.jpeg), or [PNG](Pronunciation.png).
+
 [Table of Contents](Readme.md)
 
  The German letters and their (approximate) pronunciation
