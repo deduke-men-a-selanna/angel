@@ -1,4 +1,4 @@
-View this document as [HTML](Marriage-in-Germany.html), [PDF](Marriage-in-Germany.pdf), [JPG](Marriage-in-Germany.jpeg), or [PNG](Marriage-in-Germany.png).
+View this document as [PDF](Marriage-in-Germany.pdf) or [PNG](Marriage-in-Germany.png).
 
 [Table of Contents](Readme.md)
 

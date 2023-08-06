@@ -1,4 +1,4 @@
-View this document as [HTML](Learn-German-Vocabulary.html), [PDF](Learn-German-Vocabulary.pdf), [JPG](Learn-German-Vocabulary.jpeg), or [PNG](Learn-German-Vocabulary.png).
+View this document as [PDF](Learn-German-Vocabulary.pdf) or [PNG](Learn-German-Vocabulary.png).
 
 [Table of Contents](Readme.md)
 

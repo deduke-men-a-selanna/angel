@@ -1,4 +1,4 @@
-View this document as [HTML](Grammatical-Gender.html), [PDF](Grammatical-Gender.pdf), [JPG](Grammatical-Gender.jpeg), or [PNG](Grammatical-Gender.png).
+View this document as [PDF](Grammatical-Gender.pdf) or [PNG](Grammatical-Gender.png).
 
 [Table of Contents](Readme.md)
 

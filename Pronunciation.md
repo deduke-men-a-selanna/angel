@@ -1,4 +1,4 @@
-View this document as [HTML](Pronunciation.html), [PDF](Pronunciation.pdf), [JPG](Pronunciation.jpeg), or [PNG](Pronunciation.png).
+View this document as [PDF](Pronunciation.pdf) or [PNG](Pronunciation.png).
 
 [Table of Contents](Readme.md)
 
