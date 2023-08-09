@@ -40,15 +40,11 @@ All questions are formulated in German. For every question, 4 answers are given,
 
 The test will look like [☞ this](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/musterbogen_einbuergerungstest.pdf?__blob=publicationFile&v=8).
 
-The 33 questions are chosen from a catalogue of 460 questions. This catalogue (**without solutions!**) can be found [☞ here](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile&v=10).
-
-More information can be found [☞ here](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html).
-
-Gladly, there is an [☞ Anki](https://apps.ankiweb.net/) deck that covers all 460 questions which can be downloaded [☞ here](https://github.com/deduke-men-a-selanna/angel/raw/main/Einbrgerungstest_Deutschland_alle_Bundeslnder.apkg). This file is located in this repository [☞ here](https://github.com/deduke-men-a-selanna/angel). You can find more information on this deck [☞ here](https://ankiweb.net/shared/info/1428016787).
+The 33 questions are chosen from a catalogue of 460 questions. Gladly, there is an [☞ Anki](https://apps.ankiweb.net/) deck that covers all 460 questions and that can be downloaded [☞ here](https://github.com/deduke-men-a-selanna/angel/raw/main/Einbrgerungstest_Deutschland_alle_Bundeslnder.apkg). This file is located in this repository [☞ here](https://github.com/deduke-men-a-selanna/angel). You can find more information on this deck [☞ here](https://ankiweb.net/shared/info/1428016787).
 
 
 
-Sources
+Sources / more Information
 -
 
 [☞ Source 1 (German)](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html).
@@ -56,6 +52,10 @@ Sources
 [☞ Source 2 (German)](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/musterbogen_einbuergerungstest.html;jsessionid=E2AACB222EF32043D8F3304E82894164.internet282?nn=917926).
 
 [☞ Source 3 (German)](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.html;jsessionid=E2AACB222EF32043D8F3304E82894164.internet282?nn=917926).
+
+[☞ Source 4 (German)](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile&v=10).
+
+[☞ Source 5 (German)](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html).
 
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
