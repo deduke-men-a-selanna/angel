@@ -29,20 +29,21 @@ Requirements for German citizenship by naturalization
 The person ...
 * ... **has lived permanently and lawfully in Germany** for eight years:
     * You have been legally resident in Germany for at least 8 years. The period is shortened to 7 years by successful participation in an integration course. **If you have a German spouse or life partner, a stay ("Aufenthalt") of at least 3 years is sufficient.**
-        * By marrying, your foreign spouse does not automatically acquire German citizenship. **In general, if you have been married for at least two years, your spouse has a right to naturalization after three years of lawful residence in the Federal Republic of Germany under certain additional conditions.**
+        * By marrying, your foreign spouse does not automatically acquire German citizenship. **In general, if you have been married for at least two years, your spouse has a right to naturalization after three years of lawful residence ("rechtmäßiger Aufenthalt") in the Federal Republic of Germany under certain additional conditions.**
 * ... has unlimited or permanent right of residence at the time of naturalization:
     * **You have an unlimited right of residence ("unbefristetes Aufenthaltsrecht") or a specific residence permit ("bestimmter Aufenthaltstitel").** A temporary residence permit ("befristete Aufenthalttserlaubnis") is only partially sufficient if it could lead to permanent residence in Germany, e.g. the EU Blue Card. A residence permit ("Aufenthaltsgestattung") or a temporary deportation ("Duldung") does not meet the requirements.
 * ... **has clarified identity and nationality.**
 * ... **has commitment to the free democratic basic order of the Basic Law**.
-* ... **is in principle giving up the previous nationality**:
+* ... is in principle giving up the previous nationality:
     * They are willing to give up their previous citizenship. If you are a citizen of a member state of the EU or certain other countries, you can keep your previous citizenship.
+        * **According to [this inofficial German source](https://de.wikipedia.org/wiki/Diskussion:Brasilianische_Staatsb%C3%BCrgerschaft), Brazilians normally keep their previous citizenship**.
 * ... **has oral and written German language skills at level B1** of the Common European Framework of Reference for Languages. In order to prove your German language skills, **you need to take a [☞ test](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Citizenship.md#the-german-language-test)**.
 * ... has proof of knowledge of the legal and social system and living conditions in Germany (i.e. **has passed the [☞ naturalization test](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Citizenship.md#the-naturalization-test)**).
 * ... is capable of securing the livelihood for themselves and their dependents **independently of the German state**:
     * You can support yourself and your dependent family members **without claiming social assistance or unemployment benefit II (“Hartz IV”)**. Anyone who receives social assistance or unemployment benefit II through no fault of their own can still be naturalized.
 * ... can guarantee their integration into German living conditions, in particular is not married with several spouses at the same time.
 * ... has no criminal conviction:
-    * **You have not been convicted of a criminal offense.**
+    * **You have not been convicted of a criminal offense (in Germany???).**
 
 The naturalization test
 -
