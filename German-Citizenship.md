@@ -29,6 +29,7 @@ Requirements for German citizenship by naturalization
 The person ...
 * ... **has lived permanently and lawfully in Germany** for eight years:
     * You have been legally resident in Germany for at least 8 years. The period is shortened to 7 years by successful participation in an integration course. **If you have a German spouse or life partner, a stay ("Aufenthalt") of at least 3 years is sufficient.**
+        * By marrying, your foreign spouse does not automatically acquire German citizenship. **In general, if you have been married for at least two years, your spouse has a right to naturalization after three years of lawful residence in the Federal Republic of Germany under certain additional conditions.**
 * ... has unlimited or permanent right of residence at the time of naturalization:
     * **You have an unlimited right of residence ("unbefristetes Aufenthaltsrecht") or a specific residence permit ("bestimmter Aufenthaltstitel").** A temporary residence permit ("befristete Aufenthalttserlaubnis") is only partially sufficient if it could lead to permanent residence in Germany, e.g. the EU Blue Card. A residence permit ("Aufenthaltsgestattung") or a temporary deportation ("Duldung") does not meet the requirements.
 * ... **has clarified identity and nationality.**
@@ -75,6 +76,8 @@ All this information comes from official sources provided by the German state. T
 [☞ Source 5 (German)](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html).
 
 [☞ Source 6 (German)](https://www.einbuergerung.sachsen.de/?_cp=%7B%7D).
+
+[☞ Source 7 (German)](https://santiago.diplo.de/cl-de/service/-/1210354).
 
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
