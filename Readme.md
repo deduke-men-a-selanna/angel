@@ -13,8 +13,6 @@ Table of contents
     * [☞ Grammatical gender](https://github.com/deduke-men-a-selanna/angel/blob/main/Grammatical-Gender.md)
 * Other
     * [☞ German citizenship](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Citizenship.md)
-    * [☞ German residence permit](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Residence-Permit.md)
-    * [☞ Marriage in Germany](https://github.com/deduke-men-a-selanna/angel/blob/main/Marriage-in-Germany.md)
 * Files
     * A Frequency Dictionary of German - English to German.apkg
     * A Frequency Dictionary of German - German to English.apkg
