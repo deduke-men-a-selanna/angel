@@ -1,7 +1,8 @@
 
 `Everything is work in progress.`
 
-View this document as [PDF](Readme.pdf) or [PNG](Readme.png).
+View this document as [PDF](Readme.pdf) or [PNG](Readme.png), or download this document as [PDF](https://raw.githubusercontent.com/deduke-men-a-selanna/angel/main/Readme.pdf) or [PNG](https://raw.githubusercontent.com/deduke-men-a-selanna/angel/main/Readme.png).
+
 
 Table of contents
 -
