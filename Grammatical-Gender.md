@@ -1,6 +1,9 @@
-View this document as [PDF](Grammatical-Gender.pdf) or [PNG](Grammatical-Gender.png).
 
-[Table of Contents](Readme.md)
+`Everything is work in progress.`
+
+View this document as [☞ PDF](https://github.com/deduke-men-a-selanna/angel/blob/main/Grammatical-Gender.pdf) or [☞ PNG](https://github.com/deduke-men-a-selanna/angel/blob/main/Grammatical-Gender.png), or download this document as [☞ PDF](https://raw.githubusercontent.com/deduke-men-a-selanna/angel/main/Grammatical-Gender.pdf) or [☞ PNG](https://raw.githubusercontent.com/deduke-men-a-selanna/angel/main/Grammatical-Gender.png).
+
+[☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
 Grammatical gender
 -
@@ -11,28 +14,28 @@ Suffixes and prefixes denoting grammatical gender
 -
 
     grammatical gender    | masculine | feminine | neuter
-    ______________________|___________|__________|________
+    ______________________|___________|__________|_______
     corresponding article | der       | die      | das
-    ______________________|___________|__________|________
+    ______________________|___________|__________|_______
     suffixes              | -ling     | -in      | -tum
                           |           | -heit    | -nis
                           |           | -keit    | -chen
                           |           | -schaft  | -lein
                           |           | -ung     | -sel
-    ______________________|___________|__________|________
+    ______________________|___________|__________|_______
     suffixes of Latin or  |           |          |
     Greek origin          | -ant      | -ion     | -ment
                           | -ist      | -tät     | -ium
                           | -ismus    | -ie      |
                           |           | -enz     |
-    ______________________|___________|__________|________
+    ______________________|___________|__________|_______
     prefixes              |           |          | Ge-
                           |           |          |
 
 
-**Examples**
+`Examples`
 
-masculine:
+`masculine:`
 
     Frühling "spring"                from            früh "early"
 
@@ -40,7 +43,7 @@ masculine:
     Sozialist "socialist"            compare         socialista
     Sozialismus "socialism"          compare         socialismo
 
-feminine:
+`feminine:`
 
     Herrin "mistress"                from            Herr "master"
     Schönheit "beauty"               from            schön "beautiful"
@@ -53,7 +56,7 @@ feminine:
     Phantasie "fantasy"              compare         fantasia
     Präsenz "presence"               compare         presença
 
-neuter:
+`neuter:`
 
     Brauchtum "all the customs"      from            Brauch "a custom"
     Zeugnis "testimony, certificate" from            zeugen "to testify"
@@ -70,52 +73,61 @@ neuter:
 Suffixes denoting grammatical gender depending on the meaning of the word
 -
 
-    grammatical gender    | masculine           | feminine            | neuter
-    ______________________|_____________________|_____________________|___________________
-    corresponding article | der                 | die                 | das
-    ______________________|_____________________|_____________________|___________________
-    suffixes with meaning | -er                 | -e                  | -en
-                          | (someone who does   | (abstractions,      | (nominalized
-                          | something, e.g.     | e.g. Liebe "love")  | infinitives, e.g.
-                          | Bäcker "baker", or  |                     | Backen "baking")
-                          | someone who is from | -t                  |
-                          | some place, e.g.    | (abstractions,      |
-                          | Berliner "man from  | e.g. Flucht         |
-                          | Berlin")            | "escape")           |
-                          |                     |                     |
-                          |                     | -ei                 |
-                          |                     | (locations, e.g.    |
-                          |                     | Bäckerei "place     |
-                          |                     | where people bake") |
-                          |                     |                     |
-                          |                     | -lei                |
-                          |                     | (abstractions, e.g. |
-                          |                     | Schmeichelei        |
-                          |                     | "flattery"          |
-                          |                     |                     |
+    grammatical   |                     |                     |
+    gender        | masculine           | feminine            | neuter
+    ______________|_____________________|_____________________|___________________
+    corresponding |                     |                     |
+    article       | der                 | die                 | das
+    ______________|_____________________|_____________________|___________________
+    suffixes      |                     |                     |
+    with meaning  | -er                 | -e                  | -en
+                  | (someone who does   | (abstractions,      | (nominalized
+                  | something, e.g.     | e.g. Liebe "love")  | infinitives, e.g.
+                  | Bäcker "baker", or  |                     | Backen "baking")
+                  | someone who is from |                     |
+                  | some place, e.g.    |                     |
+                  | Berliner "man from  |                     |
+                  | Berlin")            |                     |
+                  |_____________________|_____________________|___________________
+                  |                     | -t                  |
+                  |                     | (abstractions,      |
+                  |                     | e.g. Flucht         |
+                  |                     | "escape")           |
+                  |_____________________|_____________________|___________________
+                  |                     | -ei                 |
+                  |                     | (locations, e.g.    |
+                  |                     | Bäckerei "place     |
+                  |                     | where people bake") |
+                  |_____________________|_____________________|___________________
+                  |                     | -lei                |
+                  |                     | (abstractions, e.g. |
+                  |                     | Schmeichelei        |
+                  |                     | "flattery")         |
+                  |                     |                     |
 
 Grammatical gender being associated with categories
 -
 
-    grammatical gender | masculine             | feminine               | neuter
-    ___________________|_______________________|________________________|__________________________
-    categories         | male persons          | female persons         | names of animal children
-                       | male animals          | female animals         | fractions
-                       | big/dangerous animals | small/harmless animals |
-                       |                       | names of birds         |
-                       |                       | names of trees         |
-                       |                       | names of German rivers |
-                       |                       |                        |
+    grammatical |                       |                        |
+    gender      | masculine             | feminine               | neuter
+    ____________|_______________________|________________________|_________________
+    categories  | male persons          | female persons         | animal children
+                | male animals          | female animals         | fractions
+                | big/dangerous animals | small/harmless animals |
+                |                       | names of birds         |
+                |                       | names of trees         |
+                |                       | names of German rivers |
+                |                       |                        |
 
-**Examples**
+`Examples`
 
-masculine:
+`masculine:`
 
     Mann "man"
     Stier "bull"
     Wal "whale"
 
-feminine:
+`feminine:`
 
     Frau "woman"
     Kuh "cow"
@@ -124,12 +136,12 @@ feminine:
     Birke "birch"
     Donau "Danube"
 
-neuter:
+`neuter:`
 
     Fohlen "foal"
     Drittel "a third"
 
 
-[Table of Contents](Readme.md)
+[☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
 
