@@ -77,7 +77,7 @@ All this information comes from official sources provided by the German state. T
 
 [☞ Source 6 (German)](https://www.einbuergerung.sachsen.de/?_cp=%7B%7D).
 
-[☞ Source 7 (German)](https://santiago.diplo.de/cl-de/service/-/1210354).
+[☞ Source 7 (German)](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606796).
 
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
