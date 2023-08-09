@@ -34,7 +34,7 @@ The person ...
 The naturalization test
 -
 
-The test consists of 33 questions, 3 of which are state-related questions that only have to be answered for the state in which you live. For each question you have to choose the right answer from four possible answers. If you answer at least 17 questions correctly, you have passed the test. In recent years, well over 90% of participants have passed the test.
+The test consists of 33 questions, 3 of which are state-related questions that only have to be answered for the federal state of Germany in which you live. For each question you have to choose the right answer from four possible answers. If you answer at least 17 questions correctly, you have passed the test. In recent years, well over 90% of participants have passed the test.
 
 
 
