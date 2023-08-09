@@ -23,6 +23,8 @@ Your rights as a German citizen
 * You no longer need a residence permit ("Aufenthaltserlaubnis") and you do not have to go to foreign consulates or embassies to have your passport issued.
 * You can claim the protection of the social security systems.
 
+[☞ More information (German)](https://www.integrationsbeauftragte.de/ib-de/ich-moechte-mehr-wissen-ueber/einbuergerung).
+
 Requirements for German citizenship by naturalization
 -
 
@@ -30,20 +32,34 @@ The person ...
 * ... **has lived permanently and lawfully in Germany** for eight years:
     * You have been legally resident in Germany for at least 8 years. The period is shortened to 7 years by successful participation in an integration course. **If you have a German spouse or life partner, a stay ("Aufenthalt") of at least 3 years is sufficient.**
         * By marrying, your foreign spouse does not automatically acquire German citizenship. **In general, if you have been married for at least two years, your spouse has a right to naturalization after three years of lawful residence ("rechtmäßiger Aufenthalt") in the Federal Republic of Germany under certain additional conditions.**
+        * **"Permanently" means** that the center of your life has been in the Federal Republic of Germany for at least eight years. That means: **You have spent this time here without interruption and still live here.**
+        * **"Lawfully" means that you had a residence permit ("Aufenthaltstitel") during this time - for example a residence permit ("Aufenthaltserlaubnis ") or a settlement permit ("Niederlassungserlaubnis")**. If you were an EU citizen without a special residence permit in Germany, you also meet this requirement.
 * ... has unlimited or permanent right of residence at the time of naturalization:
     * **You have an unlimited right of residence ("unbefristetes Aufenthaltsrecht") or a specific residence permit ("bestimmter Aufenthaltstitel").** A temporary residence permit ("befristete Aufenthalttserlaubnis") is only partially sufficient if it could lead to permanent residence in Germany, e.g. the EU Blue Card. A residence permit ("Aufenthaltsgestattung") or a temporary deportation ("Duldung") does not meet the requirements.
+        * **Even a temporary residence permit ("befristete Aufenthaltserlaubnis") can be sufficient for your right to naturalization.** For example, **if you work as a skilled worker in Germany** or **because the residence permit was issued for family reunification ("Familiennachzug")**. A residence permit is also sufficient for persons entitled to asylum or international protection and for certain other humanitarian stays in order to be naturalized.
 * ... **has clarified identity and nationality.**
+    * The naturalization authority must verify your identity and your previous nationality. **To do this, you must present your biometric passport or another identity document with your photo (e.g. an identity card). The authorities will also check your current nationality.** If you cannot show your passport, there are other ways to prove your identity. Especially with other public documents from your country of origin that contain biometric features. These include, for example, a driver's license, a service ID card, a military ID card or a civil status certificate with a photo. Are you unable to obtain this evidence either? Then there are other documents from the country of origin, such as a birth certificate, baptismal certificate, marriage certificate, a registration certificate or school reports. Stateless persons can prove their identity with a stateless person's travel document. In principle, you must obtain the identity documents yourself – unless you are recognized as a refugee. Please contact the naturalization authority for more information.
 * ... **has commitment to the free democratic basic order of the Basic Law**.
+    * Fundamental rights and democratic principles form the core of the Basic Law, which is Germany's constitution. This constitution protects some principles in particular, such as human rights (e.g. freedom of opinion and the press, freedom of religion, equal rights for women and men), the self-determination of the people, the separation of state powers, the rule of law and the right to a parliamentary opposition. These principles are designed to prevent tyranny. Above all, this means that freely elected representatives of the people represent the interests of the population in parliament, make political decisions and control the government. **When naturalizing you have to commit to the free and democratic system of the Federal Republic of Germany. In doing so, you state that you will respect the → Basic Law and the laws of the Federal Republic of Germany. And you declare that you will not harm the Federal Republic of Germany. Before handing over your certificate of naturalization, you must also make your written declaration of consent orally in a solemn declaration.**
 * ... is in principle giving up the previous nationality:
     * They are willing to give up their previous citizenship. If you are a citizen of a member state of the EU or certain other countries, you can keep your previous citizenship.
-        * **According to [this inofficial German source](https://de.wikipedia.org/wiki/Diskussion:Brasilianische_Staatsb%C3%BCrgerschaft), Brazilians normally keep their previous citizenship**.
+        * **According to the current legal situation, people from the following countries cannot give up their citizenship:** Afghanistan, Algeria, Angola, Argentina, **Brazil**, Bolivia, Costa Rica, Dominican Republic, Ecuador, Eritrea, Guatemala, Honduras, Iran, Cuba, Lebanon, Maldives, Morocco, Mexico , Nicaragua, Nigeria, Panama, Syria, Thailand, Tunisia and Uruguay. **If you come from one of these countries, your old citizenship can remain in place when you are naturalized.**
 * ... **has oral and written German language skills at level B1** of the Common European Framework of Reference for Languages. In order to prove your German language skills, **you need to take a [☞ test](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Citizenship.md#the-german-language-test)**.
+    * **B1 - Advanced use of the language:** Can understand the main points of clear, standard language on familiar matters relating to work, school, leisure time etc. Can deal with most situations likely to arise when traveling in an area where the language is spoken. Can produce simple connected text on a familiar topic and of a personal interest. Can report on experiences and events, dreams, hopes and goals and give brief reasons or explanations for plans and views. ([☞ Source (German)](https://www.europaeischer-referenzrahmen.de/))
+        * [☞ Here](https://www.goethe.de/de/spr/kup/tsd.html) you can test how good your German language skills are.
+    * **With these documents you can show that you speak and understand German at level B1:**
+        * a certificate from the Federal Office for Migration and Refugees (BAMF) that you have successfully completed a language course
+        * the certificate of the German test for immigrants ("Zertifikat über den Deutschtest für Zuwanderer") or an equivalent or higher language diploma
+        * Can't provide any of these proofs? If the naturalization authorities have convinced themselves of your knowledge of German, they can do without proof. If they have any doubts, they can ask you to take a language test. This can take place at an adult education center ("Volkshochschule"), for example.
 * ... has proof of knowledge of the legal and social system and living conditions in Germany (i.e. **has passed the [☞ naturalization test](https://github.com/deduke-men-a-selanna/angel/blob/main/German-Citizenship.md#the-naturalization-test)**).
 * ... is capable of securing the livelihood for themselves and their dependents **independently of the German state**:
     * You can support yourself and your dependent family members **without claiming social assistance or unemployment benefit II (“Hartz IV”)**. Anyone who receives social assistance or unemployment benefit II through no fault of their own can still be naturalized.
-* ... can guarantee their integration into German living conditions, in particular is not married with several spouses at the same time.
+        * Put simply, this means that you can use your **income (what is defined as income???)** to pay for food, clothing and accommodation for yourself and your family. Income includes, for example, wages from your job, income as an entrepreneur or the maintenance that your divorced partner has to pay to you. **However, you may not receive any benefits from the job center or the social welfare office (social assistance, unemployment benefit II [“Hartz IV”] or social benefit).** This does not apply if you have no income of your own through no fault of your own. This is the case, for example, if you are unemployed because you were made redundant for operational reasons and you can prove that you have made an effort to find a new job. Or if you look after small children at home and therefore cannot work (again) yet. Then you can still be entitled to naturalization. Other social benefits such as child benefit, pension, unemployment benefit I, BAföG have no influence on your entitlement to naturalization.
+* ... **can guarantee their integration into German living conditions, in particular is not married with several spouses at the same time.**
+    * This means that you follow German law and not only know the rules of the legal and social system in Germany, but also accept them. For example, if a person is married to several people at the same time under foreign law (so-called polygamy), this is not compatible with German living conditions.
 * ... has no criminal conviction:
-    * **You have not been convicted of a criminal offense (in Germany???).**
+    * You have not been convicted of a criminal offense.
+        * **Naturalization is not possible if you have been convicted of a criminal offense in Germany or abroad.** If you have a criminal record or are subject to criminal or preliminary proceedings against you, you must tell the naturalization authorities. They will then wait until the investigation is complete or until the court has ruled. The only exceptions are convictions for minor crimes, such as penalties under the Youth Courts Act, fines of up to 90 daily rates or imprisonment of up to three months on probation if the sentence was released after the probation period had expired. This does not apply if racist, xenophobic, anti-Semitic or inhuman motives were identified as part of the conviction for a criminal offence. In this case, naturalization is not possible. Convictions removed from the register have no relevance.
 
 The naturalization test
 -
@@ -79,6 +95,16 @@ All this information comes from official sources provided by the German state. T
 [☞ Source 6 (German)](https://www.einbuergerung.sachsen.de/?_cp=%7B%7D).
 
 [☞ Source 7 (German)](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606796).
+
+[☞ Source 8 (German)](https://www.integrationsbeauftragte.de/ib-de/ich-moechte-mehr-wissen-ueber/einbuergerung/wann-haben-sie-einen-anspruch-auf-eine-einbuergerung--1865120).
+
+[☞ Source 9 (German)](https://www.integrationsbeauftragte.de/ib-de/ich-moechte-mehr-wissen-ueber/einbuergerung/ausnahmen-in-denen-sie-ihre-bisherige-staatsangehoerigkeit-behalten-koennen-1865126).
+
+Additional information
+-
+
+[☞ How to lose German citizenship?](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606796)
+* **Persons who have another citizenship in addition to German citizenship can renounce German citizenship if they so wish.** In addition, a German can apply for release from German citizenship if he/she has applied for foreign citizenship and has received a naturalization confirmation from the foreign state.
 
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel/blob/main/Readme.md)
 
