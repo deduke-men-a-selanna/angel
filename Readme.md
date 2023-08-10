@@ -7,6 +7,8 @@ View this document as [☞ PDF](https://github.com/deduke-men-a-selanna/angel/bl
 Table of contents
 -
 
+* English language
+    * [☞ Pronunciation](https://github.com/deduke-men-a-selanna/angel/blob/main/English-Pronunciation.md)
 * German language
     * [☞ How to learn German vocabulary effectively?](https://github.com/deduke-men-a-selanna/angel/blob/main/Learn-German-Vocabulary.md)
     * [☞ Pronunciation](https://github.com/deduke-men-a-selanna/angel/blob/main/Pronunciation.md)

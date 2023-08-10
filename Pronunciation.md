@@ -13,60 +13,60 @@ Some details (especially concerning rare pronunciations) have been **omitted**.
 Consonants and consonant combinations systematically grouped
 -
 
-Double consonants (like e.g. tt) are **not** pronounced longer than single consonants in German.
+Double consonants (like e.g. `tt`) are **not** pronounced longer than single consonants in German.
 
-    B   b      always like                             b   in   bola
-    P   p      always like                             p   in   parte
-    Pf  pf     always like                             p + f
-    Ph  ph     always like                             f   in   ferro
-    F   f      always like                             f   in   ferro
-    V   v      in words of Latin origin like           v   in   vento
-               else like                               f   in   ferro
-    W   W      always like                             v   in   vento
+    b      always like                             b   in   bola
+    p      always like                             p   in   parte
+    pf     always like                             p + f
+    ph     always like                             f   in   ferro
+    f      always like                             f   in   ferro
+    v      in words of Latin origin like           v   in   vento
+           else like                               f   in   ferro
+    w      always like                             v   in   vento
 
-    D   d      always like                             d   in   dar
-        dt     always like                             t   in   tosta
-    T   t      always like                             t   in   tosta
-    Th  th     always like                             t   in   tosta
-        tz     always like                             t + ß
-        ti     in words of Latin origin like           t + ß + i
-               else like                               t + i
-    Z   z      always like                             t + ß
-    C   c      always like                             t + ß
-        ß      always like                             s   in   sapo
-    S   s      before a vowel like                     s   in   raso
-               else like                               s   in   sapo
-    St  st     at the beginning of a syllable like     sch + t
-               else like                               s + t
-    Sp  sp     at the beginning of a syllable like     sch + p
-               else like                               s + p
-    Sch sch    always like                             x   in   caixa
+    d      always like                             d   in   dar
+    dt     always like                             t   in   tosta
+    t      always like                             t   in   tosta
+    th     always like                             t   in   tosta
+    tz     always like                             t + ß
+    ti     in words of Latin origin like           t + ß + i
+           else like                               t + i
+    z      always like                             t + ß
+    c      always like                             t + ß
+    ß      always like                             s   in   sapo
+    s      before a vowel like                     s   in   raso
+           else like                               s   in   sapo
+    st     at the beginning of a syllable like     sch + t
+           else like                               s + t
+    sp     at the beginning of a syllable like     sch + p
+           else like                               s + p
+    sch    always like                             x   in   caixa
 
-    Ch  ch     see remarks below
-    H          always like                             h   in   engl. hot
-        h      after a vowel                           not pronounced,
-                                                       but indicates a long vowel
-               else like                               h   in   engl. hot
-    J   j      always like                             y   in   engl. year
+    ch     see remarks below
+    H      always like                             h   in   engl. hot
+    h      after a vowel                           not pronounced,
+                                                   but indicates a long vowel
+           else like                               h   in   engl. hot
+    j      always like                             y   in   engl. year
 
-    G   g      always like                             g   in   gato
-    K   k      always like                             c   in   casa
-        ck     always like                             c   in   casa
-    Qu  qu     always like                             k + w
-    X   x      always like                             x   in   tóxico
+    g      always like                             g   in   gato
+    k      always like                             c   in   casa
+    ck     always like                             c   in   casa
+    qu     always like                             k + w
+    x      always like                             x   in   tóxico
 
-    L   l      always like                             l   in   logo
-    R   r      always like                             rr  in   carro
-    Rh  rh     always like                             rr  in   carro
+    l      always like                             l   in   logo
+    r      always like                             rr  in   carro
+    rh     always like                             rr  in   carro
 
-    M   m      always like                             m   in   mapa
-    N   n      always like                             n   in   número
-        ng     always like                             ng  in   linguagem
-        nk     always like                             ng + k
+    m      always like                             m   in   mapa
+    n      always like                             n   in   número
+    ng     always like                             ng  in   linguagem
+    nk     always like                             ng + k
 
-[☞ Sound of ch in ach, och, uch (e.g. in "cha acha").](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg)
+[☞ Sound of ch in ach, och, uch (e.g. in "cha acha")](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg).
 
-[☞ Sound of ch elsewhere (e.g. in "ich").](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg)
+[☞ Sound of ch elsewhere (e.g. in "ich")](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg).
 
 Vowels and vowel combinations
 -
@@ -78,30 +78,30 @@ German vowels are pronounced **shorter**:
 
 **Otherwise**, German vowels are pronounced like this:
 
-    A   a      like     a   in   estudar
-    Aa  aa     like     a   in   estudar
-        ai     like     ai  in   reais
-    Au  au     like     au  in   aumentar
-    Ä   ä      like     e   in   resto
-    Äu  äu     like     o in moda + j
-    E   e      like     e   in   medo
-        ee     like     e   in   medo
-    Ei  ei     like     ai  in   reais
-    Eu  eu     like     o in moda + j
-    I   i      like     i   in   isso
-        ie     like     i   in   isso
-    O   o      like     o   in   homem
-        oo     like     o   in   homem
-    Ö   ö      see remarks below
-    U   u      like     u   in   uvas
-    Ui  ui     like     u in estudar + j
-    Ü   ü      see remarks below
-    Y          like     i or ü
-        y      like     ü
+    a      like     a   in   estudar
+    aa     like     a   in   estudar
+    ai     like     ai  in   reais
+    au     like     au  in   aumentar
+    ä      like     e   in   resto
+    äu     like     o in moda + j
+    e      like     e   in   medo
+    ee     like     e   in   medo
+    ei     like     ai  in   reais
+    eu     like     o in moda + j
+    i      like     i   in   isso
+    ie     like     i   in   isso
+    o      like     o   in   homem
+    oo     like     o   in   homem
+    ö      see remarks below
+    u      like     u   in   uvas
+    ui     like     u in estudar + j
+    ü      see remarks below
+    Y      like     i or ü
+    y      like     ü
 
-[☞ Sound of ö (e.g. in "dö").](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg)
+[☞ Sound of ö (e.g. in "dö")](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg).
 
-[☞ Sound of ü (e.g. in "dü").](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
+[☞ Sound of ü (e.g. in "dü")](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg).
 
 Stressed syllables
 -
