@@ -23,11 +23,11 @@ I recommend downloading and importing `one` of the following decks:
 
 These files are located in [☞ this repository here](https://github.com/deduke-men-a-selanna/angel).
 
-Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose `one` of these decks.
+Unfortunately, as these decks are identical with the only difference that their vocabulary cards are mirrored, due to how Anki manages decks, these decks cannot coexist with each other within the Anki app. Therefore, you need to choose **one** of these decks.
 
 These decks are slightly changed variants of [☞ this deck](https://ankiweb.net/shared/info/912352287). The following changes have been made:
 
-* 7 words have been suspended and cannot be learned, unless they get unsuspended, as they are too confusing in the beginning to learn as vocabulary. These words are:
+* 7 words have been suspended and cannot be learned, **unless they get unsuspended**, as they are too confusing in the beginning to learn as vocabulary. These words are:
     * `der` "the; that, those; who, that"
     * `sein` "to be; (past tense)"
     * `ein` "a, an; one (of)"
@@ -40,7 +40,19 @@ These decks are slightly changed variants of [☞ this deck](https://ankiweb.net
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
 -
 
-This is important, because this information will tell you how to use the nouns properly:
+In German, every noun has one of **three grammatical genders (masculine, feminine, or neuter)**. Also, every German noun can be used in one of **four cases (nominative, genitive, dative, or accusative)**, as well as in one of **two numbers (singular or plural)**.
+
+Information on the grammatical gender of a German noun, as well as it's different forms in case and number can be found on [☞ Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page).
+
+Learning the grammatical gender, the genitive singular, as well as the nominative plural of a German noun is important, because this information will tell you how to use the nouns properly (grammatically) in a sentence.
+
+The grammatical gender of a German noun can be guessed correctly with varying accuracy (more information on this can be found [☞ here](https://github.com/deduke-men-a-selanna/angel/blob/main/Grammatical-Gender.md)), nevertheless it often just needs to be learned.
+
+Besides, every German noun is a member of a singular class (s1, s2a, s2b, or s3) as well as a member of a plural class (p1, p2). These classes are explained below.
+
+`The four singular classes:`
+
+The form of the **genitive singular** determines the singular class of a German noun. Therefore, the genitive singular needs to be learned.
 
 * `Nouns of class s1`: the genitive singular ends in -s or -es
     * all other singular cases are identical to the nominative singular
@@ -66,6 +78,12 @@ Some examples for the `singular cases`:
     dative      | Vater     | Kind(e)  | Menschen      | Jungen          | Mutter
     accusative  | Vater     | Kind     | Menschen      | Junge           | Mutter
 
+Compare the articles on Wiktionary on these nouns: [☞ der Vater](https://en.wiktionary.org/wiki/Vater#Declension) "the father", [☞ das Kind](https://en.wiktionary.org/wiki/Kind#Declension) "the child", [☞ Mensch](https://en.wiktionary.org/wiki/Mensch#Declension) "the human being", [☞ das Junge ("weak" declension)](https://en.wiktionary.org/wiki/Junges#Declension) "the young (thing)", [☞ die Mutter](https://en.wiktionary.org/wiki/Mutter#Declension) "the mother".
+
+`The two plural classes:`
+
+The form of the **nominative plural** determines the plural class of a German noun. Therefore, the nominative plural needs to be learned.
+
 * `Nouns of class p1`: the nominative plural ends in -e, -el, or -er
     * the dative plural adds a -n
     * all other plural cases are identical to the nominative plural
@@ -82,6 +100,8 @@ Some examples for the `plural cases`:
     genitive   | Tische   | Schlüssel  | Männer  | Bären   | Autos
     dative     | Tischen  | Schlüsseln | Männern | Bären   | Autos
     accusative | Tische   | Schlüssel  | Männer  | Bären   | Autos
+
+Compare the articles on Wiktionary on these nouns: [☞ der Tisch](https://en.wiktionary.org/wiki/Tisch#Declension) "the table", [☞ der Schlüssel](https://en.wiktionary.org/wiki/Schlüssel#Declension) "the key", [☞ der Mann](https://en.wiktionary.org/wiki/Mann#Declension) "the man", [☞ der Bär](https://en.wiktionary.org/wiki/Bär#Declension) "the bear", [☞ das Auto](https://en.wiktionary.org/wiki/Auto#Declension) "the car".
 
 Therefore, you need to learn, for example:
 
@@ -101,7 +121,7 @@ Therefore, you need to learn, for example:
 
 `Explanation`: The article shows the grammatical gender (`der` (masculine), `die` (feminine), `das` (neuter)).
 
-Having learned the previous examples, we can deduce the noun classes of these nouns:
+Having learned the previous forms, we can deduce the noun classes of these nouns:
 
     word      | singular | plural
               | class    | class
@@ -117,7 +137,7 @@ Having learned the previous examples, we can deduce the noun classes of these no
     Bär       | s2a      | p2
     Auto      | s1       | p2
 
-`Special cases`: The nouns [☞ Herz](https://en.wiktionary.org/wiki/Herz#Declension) "heart", [☞ Name](https://en.wiktionary.org/wiki/Name#Declension) "name", [☞ Buchstabe](https://en.wiktionary.org/wiki/Buchstabe#Declension) "letter", [☞ Funke](https://en.wiktionary.org/wiki/Funke#Declension) "spark", [☞ Gedanke](https://en.wiktionary.org/wiki/Gedanke#Declension) "thought", and [☞ Wille](https://en.wiktionary.org/wiki/Wille#Declension) "will".
+`Irregular nouns`: The nouns [☞ Herz](https://en.wiktionary.org/wiki/Herz#Declension) "heart", [☞ Name](https://en.wiktionary.org/wiki/Name#Declension) "name", [☞ Buchstabe](https://en.wiktionary.org/wiki/Buchstabe#Declension) "letter", [☞ Funke](https://en.wiktionary.org/wiki/Funke#Declension) "spark", [☞ Gedanke](https://en.wiktionary.org/wiki/Gedanke#Declension) "thought", and [☞ Wille](https://en.wiktionary.org/wiki/Wille#Declension) "will".
 
 **Also, there are some more subtleties mostly connected with the use of names of persons which cannot be treated here.**
 
@@ -131,13 +151,17 @@ Regularly, the positive, comparative, and superlative look like this:
     grün "green"   | grüner "greener"   | am grünsten "the greenest"
     frisch "fresh" | frischer "fresher" | am frischesten "the freshest"
 
+Compare the articles on Wiktionary on these adjectives: [☞ grün](https://en.wiktionary.org/wiki/grün#German) "green", [☞ frisch](https://en.wiktionary.org/wiki/frisch#German) "fresh".
+
 From this, we can deduct the following `rules for regular adjectives`:
 
     * the POSITIVE needs to be learned
     * the comparative                  = POSITIVE + er
     * the superlative                  = am + POSITIVE + (e)sten
 
-Irregularly, these 3 forms might look like this:
+**Therefore it suffices to learn the POSITIVE of regular German Adjectives.**
+
+Irregularly, however, these 3 forms might look like this:
 
     positive                 | comparative | superlative
     _________________________|_____________|________________
@@ -151,6 +175,8 @@ Irregularly, these 3 forms might look like this:
     bald "soon"              | eher        | am ehesten
     oft "often"              | öfter       | am häufigsten
 
+Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wiktionary.org/wiki/hart#German) "hard", [☞ groß](https://en.wiktionary.org/wiki/groß#German) "big", [☞ klug](https://en.wiktionary.org/wiki/klug#German) "prudent, smart", [☞ gut](https://en.wiktionary.org/wiki/gut#German) "good", [☞ viel](https://en.wiktionary.org/wiki/viel#Determiner) "many, much", [☞ gern](https://en.wiktionary.org/wiki/gern#Adverb) "willingly, gladly", [☞ bald](https://en.wiktionary.org/wiki/bald#German) "soon", [☞ oft](https://en.wiktionary.org/wiki/oft#German) "oft".
+
 `Explanation`: Fortunately, most irregular adjectives in German behave like `hart`, `groß`, and `klug` which show themselves a regularity: In the comparative, as well as in the superlative, they add two dots above the vowel which results in a different pronunciation, but other than that they are completely regular.
 
 For every verb, there are 6 forms that need to be learned
@@ -158,20 +184,22 @@ For every verb, there are 6 forms that need to be learned
 
 These forms are:
 
-* the infinitive ("to do")
-* the 3rd person singular present indicative ("he does")
-* the 3rd person singular preterite indicative ("he did")
-* the 3rd person singular preterite subjunctive ("he would do")
-* the 2nd person singular imperative ("Do!")
-* the past participle with its auxiliary ("to have done")
+* the **infinitive** ("to do")
+* the 3rd person singular **present** indicative ("he does")
+* the 3rd person singular **preterite** indicative ("he did")
+* the 3rd person singular **preterite subjunctive** ("he would do")
+* the 2nd person singular **imperative** ("Do!")
+* the **past participle with its auxiliary** ("to have done")
 
-If you know these 6 forms of a verb, then you can derive `all` other forms from them.
+If you know these 6 forms of a verb, then you can derive **all** other forms from them.
 **Unfortunately, it can't be shown here how this works, as this would go to far for now.**
 
 Regularly, these 6 forms look like this (the examples are `fragen` "to ask" and `ordnen` "to organize"):
 
     fragen      fragt       fragte      fragte      frag        gefragt haben
     ordnen      ordnet      ordnete     ordnete     ordne       geordnet haben
+
+Compare the articles on Wiktionary on these verbs: [☞ fragen](https://en.wiktionary.org/wiki/fragen#Conjugation) "to ask", [☞ ordnen](https://en.wiktionary.org/wiki/ordnen#Conjugation) "to organize".
 
 From this, we can deduct the following `rules for regular verbs`:
 
@@ -183,13 +211,15 @@ From this, we can deduct the following `rules for regular verbs`:
     * the past participle with its auxiliary        = ge + INFINITIVE - en + (e)t
                                                       + haben
 
-**These regular forms don't need to be learned, as we know the rules to create them.**
+**These regular forms don't need to be learned, as we know the rules to create them. Therefore, we only need to learn the INFINITIVE of regular German verbs.**
 
-Irregularly, these 6 forms might look like this:
+Irregularly, however, these 6 forms might look like this (the example is `sehen` "to see"):
 
     sehen       sieht       sah         sähe        sieh        gesehen haben
 
-As a consequence, in the case of the verb `sehen` "to see", all forms need to be learned, as they are all irregular.
+Compare the articles on Wiktionary on this verb: [☞ sehen](https://en.wiktionary.org/wiki/sehen#Conjugation) "to see".
+
+As a consequence, in the case of the **irregular German verb** `sehen` "to see", **all 6 forms need to be learned**.
 
 `Two` Anki decks with German irregular verbs are available here:
 
