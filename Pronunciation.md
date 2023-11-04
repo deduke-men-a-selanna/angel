@@ -48,7 +48,7 @@ The pronunciation of the following consonants and consonant combinations **needs
 
 ✍️ The letter `ß` called "Eszett" is a combination of the two old letters `ſ` (the long "Es", a variant of the letter `s` called "Es") and `ʒ` (a variant of the letter `z` called "Zett"): `ſʒ` became `ß`. Therefore, this letter `ß` has **no connection** to the letters `B` and `b`.
 
-✍️ The letter combinations `ph`, `th`, and `rh` (almost) only occur in words of **Greek origin** like Philosophie 'filosofia' (from `φ`ιλοσοφία /philosophía/), Theater 'teatro' (from `θ`έατρον /théātron/), or Rhetorik 'retórica' (from `ῥ`ητορική /rhētorikḗ/).
+✍️ The letter combinations `ph`, `th`, and `rh` (almost) only occur in words of **Greek origin** like Philosophie 'filosofia' (from `φ`ιλοσο`φ`ία /philosophía/), Theater 'teatro' (from `θ`έατρον /théātron/), or Rhetorik 'retórica' (from `ῥ`ητορική /rhētorikḗ/).
 
     pf     always like             p + f
     ph     always like             f   in   ferro
