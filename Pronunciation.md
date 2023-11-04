@@ -13,60 +13,74 @@ Some details (especially concerning rare pronunciations) have been **omitted**.
 Consonants and consonant combinations systematically grouped
 -
 
-Double consonants (like e.g. `tt`) are **not** pronounced longer than single consonants in German.
+✍️ Double consonants (like e.g. `tt`) are **not** pronounced longer than single consonants in German.
 
-    b      always like                             b   in   bola
-    p      always like                             p   in   parte
-    pf     always like                             p + f
-    ph     always like                             f   in   ferro
-    f      always like                             f   in   ferro
-    v      in words of Latin origin like           v   in   vento
-           else like                               f   in   ferro
-    w      always like                             v   in   vento
+The pronunciation of the following consonants and consonant combinations is (approximately) **identical** in German and Portuguese.
 
-    d      always like                             d   in   dar
-    dt     always like                             t   in   tosta
-    t      always like                             t   in   tosta
-    th     always like                             t   in   tosta
-    tz     always like                             t + ß
-    ti     in words of Latin origin like           t + ß + i
-           else like                               t + i
-    z      always like                             t + ß
-    c      always like                             t + ß
-    ß      always like                             s   in   sapo
-    s      before a vowel like                     s   in   raso
+    b      always like      b   in   bola
+    p      always like      p   in   parte
+    f      always like      f   in   ferro
+
+    d      always like      d   in   dar
+    t      always like      t   in   tosta
+
+    g      always like      g   in   gato
+    k      always like      k   in   Kauã
+    x      always like      x   in   tóxico
+
+    l      always like      l   in   lei
+
+    m      always like      m   in   mapa
+    n      always like      n   in   número
+    ng     always like      ng  in   linguagem
+    nk     always like      nc  in   branco
+
+The pronunciation of the following consonants and consonant combinations is **different** in German and Portuguese. **However, the Portuguese pronunciation is understandable in German**.
+
+    s      in front of a vowel like                s   in   raso
            else like                               s   in   sapo
     st     at the beginning of a syllable like     sch + t
            else like                               s + t
     sp     at the beginning of a syllable like     sch + p
            else like                               s + p
-    sch    always like                             x   in   caixa
 
-    ch     see remarks below
-    H      always like                             h   in   engl. hot
-    h      after a vowel                           not pronounced,
-                                                   but indicates a long vowel
-           else like                               h   in   engl. hot
-    j      always like                             y   in   engl. year
+The pronunciation of the following consonants and consonant combinations **needs to be learned**.
 
-    g      always like                             g   in   gato
-    k      always like                             c   in   casa
-    ck     always like                             c   in   casa
-    qu     always like                             k + w
-    x      always like                             x   in   tóxico
+✍️ The letter `ß` called "Eszett" is a combination of the two old letters `ſ` (the long "Es", a variant of the letter `s` called "Es") and `ʒ` (a variant of the letter `z` called "Zett"): `ſʒ` became `ß`. Therefore, this letter `ß` has **no connection** to the letters `B` and `b`.
 
-    l      always like                             l   in   logo
-    r      always like                             rr  in   carro
-    rh     always like                             rr  in   carro
+✍️ The letter combinations `ph`, `th`, and `rh` (almost) only occur in words of **Greek origin** like Philosophie 'filosofia' (from `φ`ιλοσοφία /philosophía/), Theater 'teatro' (from `θ`έατρον /théātron/), or Rhetorik 'retórica' (from `ῥ`ητορική /rhētorikḗ/).
 
-    m      always like                             m   in   mapa
-    n      always like                             n   in   número
-    ng     always like                             ng  in   linguagem
-    nk     always like                             ng + k
+    pf     always like             p + f
+    ph     always like             f   in   ferro
+    v      in Latin words like     v   in   vento
+           else like               f   in   ferro
+    w      always like             v   in   vento
 
-[☞ Sound of ch in ach, och, uch (e.g. in "cha acha")](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg).
+    dt     always like             t   in   tosta
+    th     always like             t   in   tosta
+    tz     always like             t + ß
+    z      always like             t + ß
+    c      always like             t + ß
+    ß      always like             s   in   sapo
 
-[☞ Sound of ch elsewhere (e.g. in "ich")](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg).
+    sch    always like             x   in   caixa
+
+    ch     ☞ see remarks below
+    H      always like             r   in   raso
+    h      after a vowel           not pronounced,
+                                   but indicates a long vowel
+           else like               r   in   raso
+    j      always like             i   in   boia
+
+    ck     always like             c   in   casa
+    qu     always like             k + w
+
+    r      always like             rr  in   carro
+    rh     always like             rr  in   carro
+
+[☞ Sound of ch in ach, och, uch (e.g. in "cha acha").](https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg)
+
+[☞ Sound of ch elsewhere (e.g. in "ich").](https://upload.wikimedia.org/wikipedia/commons/4/43/De-ich.ogg)
 
 Vowels and vowel combinations
 -
@@ -83,25 +97,40 @@ German vowels are pronounced **shorter**:
     ai     like     ai  in   reais
     au     like     au  in   aumentar
     ä      like     e   in   resto
-    äu     like     o in moda + j
+    äu     like     oi  in   boia
     e      like     e   in   medo
     ee     like     e   in   medo
     ei     like     ai  in   reais
-    eu     like     o in moda + j
+    eu     like     oi  in   boia
     i      like     i   in   isso
     ie     like     i   in   isso
     o      like     o   in   homem
     oo     like     o   in   homem
-    ö      see remarks below
+    ö      ☞ see remarks below
     u      like     u   in   uvas
-    ui     like     u in estudar + j
-    ü      see remarks below
+    ui     like     ui  in   sanduíche
+    ü      ☞ see remarks below
     Y      like     i or ü
-    y      like     ü
+    y      ☞ see remarks below
 
-[☞ Sound of ö (e.g. in "dö")](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg).
+[☞ Sound of ö (e.g. in "dö").](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg)
 
-[☞ Sound of ü (e.g. in "dü")](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg).
+[☞ Sound of ü and y (e.g. in "dü" and "dy").](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
+
+**Therefore, the following vowels sound similar to each other in German.**
+
+    a, aa        like     a   in   estudar
+    ai, ei       like     ai  in   reais
+    au           like     au  in   aumentar
+    ä            like     e   in   resto
+    äu, eu       like     oi  in   boia
+    e, ee        like     e   in   medo
+    i, ie, Y     like     i   in   isso
+    o, oo        like     o   in   homem
+    ö            ☞ see remarks above
+    u            like     u   in   uvas
+    ui           like     ui  in   sanduíche
+    ü, y, Y      ☞ see remarks above
 
 Stressed syllables
 -

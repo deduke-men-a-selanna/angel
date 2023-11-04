@@ -13,60 +13,64 @@ Some details (especially concerning rare pronunciations) have been **omitted**.
 Consonants and consonant combinations systematically grouped
 -
 
-Double consonants (like e.g. `tt`) are **not** pronounced longer than single consonants in English.
+✍️ Double consonants (like e.g. `tt`) are **not** pronounced longer than single consonants in English.
 
-    b      always like                             b   in   bola
-    p      always like                             p   in   parte
-    ph     always like                             f   in   ferro
-    f      always like                             f   in   ferro
-    gh     mostly not pronounced
-           rarely like                             f   in   ferro
-    v      always like                             v   in   vento
+The pronunciation of the following consonants and consonant combinations is (approximately) **identical** in English and Portuguese.
 
-    w      see remarks below
-    wh     always like                             w
-    y      see remarks below
-    h      see remarks below
+    b      always like                 b   in   bola
+    p      always like                 p   in   parte
+    f      always like                 f   in   ferro
+    v      always like                 v   in   vento
 
-    si     in words of Latin origin like           j   in   joelho
-           or like                                 x   in   caixa
-           else like                               s + i
+    d      always like                 d   in   dar
+    t      always like                 t   in   tosta
+    z      always like                 z   in   razão
+    s      always like                 s   in   sapo
+    c      in front of e, i, y like    c   in   cem, cinza
+           else like                   c   in   casa, coalhar
+
+    k      always like                 k   in   Kauã
+    qu     always like                 qu  in   quarto
+    x      always like                 x   in   tóxico
+
+    l      always like                 l   in   logo
+    r      always like                 r   in   parte
+    rh     always like                 r   in   parte
+
+    m      always like                 m   in   mapa
+    n      always like                 n   in   número
+    ng     always like                 ng  in   linguagem
+    nc     always like                 nc  in   branco
+    nk     always like                 nc  in   branco
+
+The pronunciation of the following consonants and consonant combinations is **different** in English and Portuguese. **However, the Portuguese pronunciation should still be somewhat understandable in English**.
+
     j      always like                             d + j in joelho
-    d      always like                             d   in   dar
-    t      always like                             t   in   tosta
-    th     see remarks below
-    ti     in words of Latin origin like           x   in   caixa
-           else like                               t + i
-    sh     always like                             x   in   caixa
-    sch    always like                             x   in   caixa
-    ch     always like                             t + x in caixa
-    z      always like                             s   in   raso
-    s      always like                             s   in   sapo
-    c      in front of e, i, y like                s   in   sapo
-           else like                               c   in   casa
+    ch     always like                             t + ch in chão
+    g      in front of e, i, y often (!) like      d + g in geral, girafa
+           else always like                        g   in   gato
 
-    g      in front of e, i, y like                d + j in joelho
-           else like                               g   in   gato
-    k      always like                             c   in   casa
-    ck     always like                             c   in   casa
-    qu     always like                             k + w
-    x      always like                             x   in   tóxico
+The pronunciation of the following consonants and consonant combinations **needs to be learned**.
 
-    l      always like                             l   in   logo
-    r      always like                             r   in   parte
-    rh     always like                             r   in   parte
+    ph     always like             f   in   ferro
+    gh     mostly not pronounced
+           rarely like             f   in   ferro
 
-    m      always like                             m   in   mapa
-    n      always like                             n   in   número
-    ng     always like                             ng  in   linguagem
-    nk     always like                             ng + k
-    nc     always like                             ng + k
+    w      always like             u   in   Kauã
+    wh     always like             u   in   Kauã
 
-[☞ Sound of w (e.g. in "wa awa")](https://upload.wikimedia.org/wikipedia/commons/f/f2/Voiced_labio-velar_approximant.ogg).
+    y      always like             i   in   boia
 
-[☞ Sound of y (e.g. in "ya aya")](https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg).
+    h      always like             r   in   raso
 
-[☞ Sound of h (e.g. in "ha aha")](https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg).
+    si     in Latin words like     j   in   joelho
+           else like               s + i
+    sh     always like             x   in   caixa
+    ti     in Latin words like     x   in   caixa
+           else like               t + i
+    th     ☞ see remarks below
+
+    ck     always like             c   in   casa
 
 The sound of `th` is not very predictable. It can always either be [☞ voiceless (e.g. in "tha atha")](https://upload.wikimedia.org/wikipedia/commons/8/80/Voiceless_dental_fricative.ogg) or [☞ voiced (e.g. in "tha atha")](https://upload.wikimedia.org/wikipedia/commons/6/6a/Voiced_dental_fricative.ogg). However, I would estimate that the sound of `th` is in **most cases** [☞ voiceless (e.g. in "tha atha")](https://upload.wikimedia.org/wikipedia/commons/8/80/Voiceless_dental_fricative.ogg).
 
@@ -147,7 +151,6 @@ In general, all English vowels are pronounced **shorter**:
     ai     like                           ei  in   lei
     ay     like                           ei  in   lei
     aw     like                           o   in   moda
-    ar     like                           e in resto + r
     e      like                           e   in   medo
     ee     like                           i   in   isso
     ea     like                           i   in   isso
@@ -159,21 +162,21 @@ In general, all English vowels are pronounced **shorter**:
     ew     like                           ou  in   ouvir
     i      like                           i   in   isso
            or like                        ai  in   reais
-    ia     like                           ai in reais + a in estudar
+    ia     like                           aia in   caía
     ie     like                           ai  in   reais
     o      like                           o   in   moda
     oo     like                           u   in   uvas
     oa     like                           ou  in   ouvir
     oe     like                           ou  in   ouvir
-    oi     like                           o in moda + i in isso
-    oy     like                           o in moda + i in isso
+    oi     like                           oi  in   boia
+    oy     like                           oi  in   boia
     ou     like                           o   in   moda
            or like                        au  in   aumentar
     ow     like                           ou  in   ouvir
            or like                        au  in   aumentar
     u      like                           a   in   estudar
     uy     like                           ai  in   reais
-    ur     see remarks below, but also
+    ur     ☞ see remarks below, but also
            like                           u in uvas + r
     y      in stressed syllables like     ai  in   reais
            else like                      i   in   isso
@@ -181,22 +184,21 @@ In general, all English vowels are pronounced **shorter**:
 
 [☞ Sound of ur](https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/Open-mid_central_unrounded_vowel.ogg/Open-mid_central_unrounded_vowel.ogg.mp3).
 
-`English vowels that sound similar:`
+**Therefore, the following vowels sound similar to each other in English.**
 
     a                              all sound like     e   in   resto
     a, u                           all sound like     a   in   estudar
     a, ae, ai, ay, ea, ei, ey      all sound like     ei  in   lei
     aw, o, ou                      all sound like     o   in   moda
-    ar                             all sound like     e in resto + r
     e                              all sound like     e   in   medo
     ee, ea, i, y                   all sound like     i   in   isso
     ei, ey, i, ie, uy, y, ye       all sound like     ai  in   reais
     ew, oa, oe, ow                 all sound like     ou  in   ouvir
-    ia                             all sound like     ai in reais + a in estudar
+    ia                             all sound like     aia in   caía
     oo                             all sound like     u   in   uvas
-    oi, oy                         all sound like     o in moda + i in isso
+    oi, oy                         all sound like     oi  in   boia
     ou, ow                         all sound like     au  in   aumentar
-    ur                             all sound like     see remark above
+    ur                             all sound like     ☞ see remark above
                                                       or: u in uvas + r
 
 Stressed syllables
